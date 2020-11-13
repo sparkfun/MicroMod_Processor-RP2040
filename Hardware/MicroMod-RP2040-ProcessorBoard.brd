@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="1" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.1" altunitdist="mm" altunit="mm"/>
+<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Horz" color="1" fill="3" visible="no" active="yes"/>
@@ -5559,6 +5559,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="U$6" library="output" package="RP20402" value="" x="-17" y="18" smashed="yes"/>
 <element name="Y1" library="SparkFun-Clocks" package="CRYSTAL-SMD-2X2.5MM" value="12MHz" x="3" y="12" smashed="yes" rot="R270">
 <attribute name="NAME" x="4.776" y="11.992" size="0.6096" layer="25" font="vector" ratio="12" rot="R270" align="bottom-center"/>
+<attribute name="PROD_ID" value="XTAL-15540" x="3" y="12" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="1.328" y="11.992" size="0.6096" layer="27" font="vector" ratio="12" rot="R270" align="top-center"/>
 </element>
 <element name="U$8" library="output" package="PI2" value="" x="16" y="17.3" smashed="yes" rot="R90"/>

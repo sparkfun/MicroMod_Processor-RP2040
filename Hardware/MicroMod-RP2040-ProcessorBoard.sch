@@ -18983,7 +18983,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <connect gate="G$1" pin="2" pad="P3"/>
 </connects>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="PROD_ID" value="XTAL-15540" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
