@@ -20480,55 +20480,6 @@ Out</text>
 <rectangle x1="0.7" y1="0.7" x2="1.3" y2="1.3" layer="31"/>
 <rectangle x1="-0.3" y1="-0.3" x2="0.3" y2="0.3" layer="31"/>
 </package>
-<package name="MSOP10">
-<wire x1="-1.5" y1="1.5" x2="-1.5" y2="-1.5" width="0.127" layer="51"/>
-<wire x1="-1.5" y1="-1.5" x2="1.5" y2="-1.5" width="0.2032" layer="21"/>
-<wire x1="1.5" y1="-1.5" x2="1.5" y2="1.5" width="0.127" layer="51"/>
-<wire x1="1.5" y1="1.5" x2="-1.5" y2="1.5" width="0.2032" layer="21"/>
-<circle x="-2.05" y="1.55" radius="0.2" width="0" layer="21"/>
-<smd name="1" x="-2.25" y="1" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="2" x="-2.25" y="0.5" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="3" x="-2.25" y="0" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="4" x="-2.25" y="-0.5" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="5" x="-2.25" y="-1" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="6" x="2.25" y="-1" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
-<smd name="7" x="2.25" y="-0.5" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
-<smd name="8" x="2.25" y="0" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
-<smd name="9" x="2.25" y="0.5" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
-<smd name="10" x="2.25" y="1" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
-<rectangle x1="-2.3125" y1="0.5125" x2="-2.0125" y2="1.4875" layer="51" rot="R270"/>
-<rectangle x1="-2.3125" y1="0.0125" x2="-2.0125" y2="0.9875" layer="51" rot="R270"/>
-<rectangle x1="-2.3125" y1="-0.4875" x2="-2.0125" y2="0.4875" layer="51" rot="R270"/>
-<rectangle x1="-2.3125" y1="-0.9875" x2="-2.0125" y2="-0.0125" layer="51" rot="R270"/>
-<rectangle x1="-2.3125" y1="-1.4875" x2="-2.0125" y2="-0.5125" layer="51" rot="R270"/>
-<rectangle x1="-2.45" y1="0.45" x2="-2.05" y2="1.55" layer="29" rot="R270"/>
-<rectangle x1="-2.45" y1="-0.05" x2="-2.05" y2="1.05" layer="29" rot="R270"/>
-<rectangle x1="-2.45" y1="-0.55" x2="-2.05" y2="0.55" layer="29" rot="R270"/>
-<rectangle x1="-2.45" y1="-1.05" x2="-2.05" y2="0.05" layer="29" rot="R270"/>
-<rectangle x1="-2.45" y1="-1.55" x2="-2.05" y2="-0.45" layer="29" rot="R270"/>
-<rectangle x1="-2.3875" y1="0.5625" x2="-2.1375" y2="1.4375" layer="31" rot="R270"/>
-<rectangle x1="-2.3875" y1="0.0625" x2="-2.1375" y2="0.9375" layer="31" rot="R270"/>
-<rectangle x1="-2.3875" y1="-0.4375" x2="-2.1375" y2="0.4375" layer="31" rot="R270"/>
-<rectangle x1="-2.3875" y1="-0.9375" x2="-2.1375" y2="-0.0625" layer="31" rot="R270"/>
-<rectangle x1="-2.3875" y1="-1.4375" x2="-2.1375" y2="-0.5625" layer="31" rot="R270"/>
-<rectangle x1="2.0125" y1="-1.4875" x2="2.3125" y2="-0.5125" layer="51" rot="R90"/>
-<rectangle x1="2.0125" y1="-0.9875" x2="2.3125" y2="-0.0125" layer="51" rot="R90"/>
-<rectangle x1="2.0125" y1="-0.4875" x2="2.3125" y2="0.4875" layer="51" rot="R90"/>
-<rectangle x1="2.0125" y1="0.0125" x2="2.3125" y2="0.9875" layer="51" rot="R90"/>
-<rectangle x1="2.0125" y1="0.5125" x2="2.3125" y2="1.4875" layer="51" rot="R90"/>
-<rectangle x1="2.05" y1="-1.55" x2="2.45" y2="-0.45" layer="29" rot="R90"/>
-<rectangle x1="2.05" y1="-1.05" x2="2.45" y2="0.05" layer="29" rot="R90"/>
-<rectangle x1="2.05" y1="-0.55" x2="2.45" y2="0.55" layer="29" rot="R90"/>
-<rectangle x1="2.05" y1="-0.05" x2="2.45" y2="1.05" layer="29" rot="R90"/>
-<rectangle x1="2.05" y1="0.45" x2="2.45" y2="1.55" layer="29" rot="R90"/>
-<rectangle x1="2.1375" y1="-1.4375" x2="2.3875" y2="-0.5625" layer="31" rot="R90"/>
-<rectangle x1="2.1375" y1="-0.9375" x2="2.3875" y2="-0.0625" layer="31" rot="R90"/>
-<rectangle x1="2.1375" y1="-0.4375" x2="2.3875" y2="0.4375" layer="31" rot="R90"/>
-<rectangle x1="2.1375" y1="0.0625" x2="2.3875" y2="0.9375" layer="31" rot="R90"/>
-<rectangle x1="2.1375" y1="0.5625" x2="2.3875" y2="1.4375" layer="31" rot="R90"/>
-<text x="0" y="1.905" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-2.54" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center">&gt;VALUE</text>
-</package>
 </packages>
 <symbols>
 <symbol name="RP2040">
@@ -20596,24 +20547,6 @@ Out</text>
 <wire x1="0" y1="2.54" x2="-0.762" y2="1.27" width="0.254" layer="94"/>
 <text x="0" y="2.794" size="1.778" layer="96" align="bottom-center">&gt;VALUE</text>
 <pin name="1.1V" x="0" y="0" visible="off" length="short" direction="sup" rot="R90"/>
-</symbol>
-<symbol name="FSUSB30MUX">
-<wire x1="-7.62" y1="-10.16" x2="7.62" y2="-10.16" width="0.4064" layer="94"/>
-<wire x1="7.62" y1="-10.16" x2="7.62" y2="10.16" width="0.4064" layer="94"/>
-<wire x1="7.62" y1="10.16" x2="-7.62" y2="10.16" width="0.4064" layer="94"/>
-<wire x1="-7.62" y1="10.16" x2="-7.62" y2="-10.16" width="0.4064" layer="94"/>
-<pin name="D2-" x="10.16" y="-5.08" visible="pin" length="short" rot="R180"/>
-<pin name="D2+" x="10.16" y="-2.54" visible="pin" length="short" rot="R180"/>
-<pin name="GND" x="-10.16" y="-7.62" visible="pin" length="short"/>
-<pin name="!OE!" x="-10.16" y="-5.08" visible="pin" length="short"/>
-<pin name="D1-" x="10.16" y="2.54" visible="pin" length="short" rot="R180"/>
-<pin name="D1+" x="10.16" y="5.08" visible="pin" length="short" rot="R180"/>
-<pin name="D+" x="-10.16" y="2.54" visible="pin" length="short"/>
-<pin name="D-" x="-10.16" y="0" visible="pin" length="short"/>
-<pin name="S" x="-10.16" y="-2.54" visible="pin" length="short"/>
-<pin name="VCC" x="-10.16" y="7.62" visible="pin" length="short"/>
-<text x="-7.62" y="10.795" size="1.778" layer="95">&gt;NAME</text>
-<text x="-7.62" y="-12.7" size="1.778" layer="96">&gt;VALUE</text>
 </symbol>
 </symbols>
 <devicesets>
@@ -20712,32 +20645,6 @@ Out</text>
 <device name="">
 <technologies>
 <technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="FSUSB30MUX" prefix="U">
-<gates>
-<gate name="U1" symbol="FSUSB30MUX" x="0" y="0"/>
-</gates>
-<devices>
-<device name="_MSOP10" package="MSOP10">
-<connects>
-<connect gate="U1" pin="!OE!" pad="9"/>
-<connect gate="U1" pin="D+" pad="4"/>
-<connect gate="U1" pin="D-" pad="6"/>
-<connect gate="U1" pin="D1+" pad="2"/>
-<connect gate="U1" pin="D1-" pad="8"/>
-<connect gate="U1" pin="D2+" pad="3"/>
-<connect gate="U1" pin="D2-" pad="7"/>
-<connect gate="U1" pin="GND" pad="5"/>
-<connect gate="U1" pin="S" pad="1"/>
-<connect gate="U1" pin="VCC" pad="10"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="IC-14135" constant="no"/>
-</technology>
 </technologies>
 </device>
 </devices>
@@ -21016,6 +20923,126 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </deviceset>
 </devicesets>
 </library>
+<library name="SparkFun-IC-Special-Function">
+<description>&lt;h3&gt;SparkFun Special Function ICs&lt;/h3&gt;
+This library contains ICs that do not really fit into the other, more generic categories.  Basically, anything that serves some function but has a bunch of brains or special bias circuitry that prevents it from being used as a general part qualifies for this category.
+&lt;p&gt;Contents:
+&lt;ul&gt;&lt;li&gt;555 timers&lt;/li&gt;
+&lt;li&gt;LED drivers&lt;/li&gt;
+&lt;li&gt;H-Bridge drivers&lt;/li&gt;
+&lt;li&gt;Motor drivers&lt;/li&gt;
+&lt;li&gt;Waveform generators&lt;/li&gt;
+&lt;li&gt;Crypto&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;&lt;br&gt;
+We've spent an enormous amount of time creating and checking these footprints and parts, but it is &lt;b&gt; the end user's responsibility&lt;/b&gt; to ensure correctness and suitablity for a given componet or application. 
+&lt;br&gt;
+&lt;br&gt;If you enjoy using this library, please buy one of our products at &lt;a href=" www.sparkfun.com"&gt;SparkFun.com&lt;/a&gt;.
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Licensing:&lt;/b&gt; Creative Commons ShareAlike 4.0 International - https://creativecommons.org/licenses/by-sa/4.0/ 
+&lt;br&gt;
+&lt;br&gt;
+You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
+<packages>
+<package name="MSOP10">
+<wire x1="-1.5" y1="1.5" x2="-1.5" y2="-1.5" width="0.127" layer="51"/>
+<wire x1="-1.5" y1="-1.5" x2="1.5" y2="-1.5" width="0.2032" layer="21"/>
+<wire x1="1.5" y1="-1.5" x2="1.5" y2="1.5" width="0.127" layer="51"/>
+<wire x1="1.5" y1="1.5" x2="-1.5" y2="1.5" width="0.2032" layer="21"/>
+<circle x="-2.05" y="1.55" radius="0.2" width="0" layer="21"/>
+<smd name="1" x="-2.25" y="1" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
+<smd name="2" x="-2.25" y="0.5" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
+<smd name="3" x="-2.25" y="0" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
+<smd name="4" x="-2.25" y="-0.5" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
+<smd name="5" x="-2.25" y="-1" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
+<smd name="6" x="2.25" y="-1" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
+<smd name="7" x="2.25" y="-0.5" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
+<smd name="8" x="2.25" y="0" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
+<smd name="9" x="2.25" y="0.5" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
+<smd name="10" x="2.25" y="1" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
+<rectangle x1="-2.3125" y1="0.5125" x2="-2.0125" y2="1.4875" layer="51" rot="R270"/>
+<rectangle x1="-2.3125" y1="0.0125" x2="-2.0125" y2="0.9875" layer="51" rot="R270"/>
+<rectangle x1="-2.3125" y1="-0.4875" x2="-2.0125" y2="0.4875" layer="51" rot="R270"/>
+<rectangle x1="-2.3125" y1="-0.9875" x2="-2.0125" y2="-0.0125" layer="51" rot="R270"/>
+<rectangle x1="-2.3125" y1="-1.4875" x2="-2.0125" y2="-0.5125" layer="51" rot="R270"/>
+<rectangle x1="-2.45" y1="0.45" x2="-2.05" y2="1.55" layer="29" rot="R270"/>
+<rectangle x1="-2.45" y1="-0.05" x2="-2.05" y2="1.05" layer="29" rot="R270"/>
+<rectangle x1="-2.45" y1="-0.55" x2="-2.05" y2="0.55" layer="29" rot="R270"/>
+<rectangle x1="-2.45" y1="-1.05" x2="-2.05" y2="0.05" layer="29" rot="R270"/>
+<rectangle x1="-2.45" y1="-1.55" x2="-2.05" y2="-0.45" layer="29" rot="R270"/>
+<rectangle x1="-2.3875" y1="0.5625" x2="-2.1375" y2="1.4375" layer="31" rot="R270"/>
+<rectangle x1="-2.3875" y1="0.0625" x2="-2.1375" y2="0.9375" layer="31" rot="R270"/>
+<rectangle x1="-2.3875" y1="-0.4375" x2="-2.1375" y2="0.4375" layer="31" rot="R270"/>
+<rectangle x1="-2.3875" y1="-0.9375" x2="-2.1375" y2="-0.0625" layer="31" rot="R270"/>
+<rectangle x1="-2.3875" y1="-1.4375" x2="-2.1375" y2="-0.5625" layer="31" rot="R270"/>
+<rectangle x1="2.0125" y1="-1.4875" x2="2.3125" y2="-0.5125" layer="51" rot="R90"/>
+<rectangle x1="2.0125" y1="-0.9875" x2="2.3125" y2="-0.0125" layer="51" rot="R90"/>
+<rectangle x1="2.0125" y1="-0.4875" x2="2.3125" y2="0.4875" layer="51" rot="R90"/>
+<rectangle x1="2.0125" y1="0.0125" x2="2.3125" y2="0.9875" layer="51" rot="R90"/>
+<rectangle x1="2.0125" y1="0.5125" x2="2.3125" y2="1.4875" layer="51" rot="R90"/>
+<rectangle x1="2.05" y1="-1.55" x2="2.45" y2="-0.45" layer="29" rot="R90"/>
+<rectangle x1="2.05" y1="-1.05" x2="2.45" y2="0.05" layer="29" rot="R90"/>
+<rectangle x1="2.05" y1="-0.55" x2="2.45" y2="0.55" layer="29" rot="R90"/>
+<rectangle x1="2.05" y1="-0.05" x2="2.45" y2="1.05" layer="29" rot="R90"/>
+<rectangle x1="2.05" y1="0.45" x2="2.45" y2="1.55" layer="29" rot="R90"/>
+<rectangle x1="2.1375" y1="-1.4375" x2="2.3875" y2="-0.5625" layer="31" rot="R90"/>
+<rectangle x1="2.1375" y1="-0.9375" x2="2.3875" y2="-0.0625" layer="31" rot="R90"/>
+<rectangle x1="2.1375" y1="-0.4375" x2="2.3875" y2="0.4375" layer="31" rot="R90"/>
+<rectangle x1="2.1375" y1="0.0625" x2="2.3875" y2="0.9375" layer="31" rot="R90"/>
+<rectangle x1="2.1375" y1="0.5625" x2="2.3875" y2="1.4375" layer="31" rot="R90"/>
+<text x="0" y="1.905" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-2.54" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center">&gt;VALUE</text>
+</package>
+</packages>
+<symbols>
+<symbol name="FSUSB30MUX">
+<wire x1="-7.62" y1="-10.16" x2="7.62" y2="-10.16" width="0.4064" layer="94"/>
+<wire x1="7.62" y1="-10.16" x2="7.62" y2="10.16" width="0.4064" layer="94"/>
+<wire x1="7.62" y1="10.16" x2="-7.62" y2="10.16" width="0.4064" layer="94"/>
+<wire x1="-7.62" y1="10.16" x2="-7.62" y2="-10.16" width="0.4064" layer="94"/>
+<pin name="D2-" x="10.16" y="-5.08" visible="pin" length="short" rot="R180"/>
+<pin name="D2+" x="10.16" y="-2.54" visible="pin" length="short" rot="R180"/>
+<pin name="GND" x="-10.16" y="-7.62" visible="pin" length="short"/>
+<pin name="!OE!" x="-10.16" y="-5.08" visible="pin" length="short"/>
+<pin name="D1-" x="10.16" y="2.54" visible="pin" length="short" rot="R180"/>
+<pin name="D1+" x="10.16" y="5.08" visible="pin" length="short" rot="R180"/>
+<pin name="D+" x="-10.16" y="2.54" visible="pin" length="short"/>
+<pin name="D-" x="-10.16" y="0" visible="pin" length="short"/>
+<pin name="S" x="-10.16" y="-2.54" visible="pin" length="short"/>
+<pin name="VCC" x="-10.16" y="7.62" visible="pin" length="short"/>
+<text x="-7.62" y="10.795" size="1.778" layer="95">&gt;NAME</text>
+<text x="-7.62" y="-12.7" size="1.778" layer="96">&gt;VALUE</text>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="FSUSB30MUX" prefix="U">
+<gates>
+<gate name="U1" symbol="FSUSB30MUX" x="0" y="0"/>
+</gates>
+<devices>
+<device name="_MSOP10" package="MSOP10">
+<connects>
+<connect gate="U1" pin="!OE!" pad="9"/>
+<connect gate="U1" pin="D+" pad="4"/>
+<connect gate="U1" pin="D-" pad="6"/>
+<connect gate="U1" pin="D1+" pad="2"/>
+<connect gate="U1" pin="D1-" pad="8"/>
+<connect gate="U1" pin="D2+" pad="3"/>
+<connect gate="U1" pin="D2-" pad="7"/>
+<connect gate="U1" pin="GND" pad="5"/>
+<connect gate="U1" pin="S" pad="1"/>
+<connect gate="U1" pin="VCC" pad="10"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="PROD_ID" value="IC-15569" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -21106,7 +21133,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="SUPPLY3" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="SUPPLY5" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="SUPPLY20" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
-<part name="U2" library="RP2040" deviceset="FSUSB30MUX" device="_MSOP10"/>
+<part name="U2" library="SparkFun-IC-Special-Function" deviceset="FSUSB30MUX" device="_MSOP10"/>
 <part name="SUPPLY2" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="GND5" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="C2" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402T-6.3V-10%-X7R" value="0.1uF"/>
