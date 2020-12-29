@@ -28,38 +28,38 @@
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="24" fill="1" visible="yes" active="yes"/>
-<layer number="21" name="tPlace" color="16" fill="1" visible="yes" active="yes"/>
-<layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="yes"/>
+<layer number="21" name="tPlace" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
-<layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
-<layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
-<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
-<layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
-<layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
-<layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
-<layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
-<layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="yes"/>
-<layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="yes"/>
-<layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="yes"/>
-<layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
-<layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
-<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
+<layer number="31" name="tCream" color="7" fill="4" visible="yes" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="yes" active="yes"/>
+<layer number="33" name="tFinish" color="6" fill="3" visible="yes" active="yes"/>
+<layer number="34" name="bFinish" color="6" fill="6" visible="yes" active="yes"/>
+<layer number="35" name="tGlue" color="7" fill="4" visible="yes" active="yes"/>
+<layer number="36" name="bGlue" color="7" fill="5" visible="yes" active="yes"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
+<layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
+<layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
-<layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
 <layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
@@ -2676,81 +2676,6 @@ Out</text>
 <vertex x="4.17" y="0.43"/>
 </polygon>
 </package>
-<package name="PI2">
-<polygon width="0.01" layer="21">
-<vertex x="0.12" y="0.29"/>
-<vertex x="0.09" y="0.37"/>
-<vertex x="0.04" y="0.44"/>
-<vertex x="-0.02" y="0.5"/>
-<vertex x="-0.1" y="0.55"/>
-<vertex x="-0.18" y="0.58"/>
-<vertex x="-0.25" y="0.6"/>
-<vertex x="-0.34" y="0.6"/>
-<vertex x="-0.59" y="0.6"/>
-<vertex x="-0.68" y="0.6"/>
-<vertex x="-0.76" y="0.57"/>
-<vertex x="-0.79" y="0.51"/>
-<vertex x="-0.79" y="-0.42"/>
-<vertex x="-0.78" y="-0.51"/>
-<vertex x="-0.75" y="-0.57"/>
-<vertex x="-0.67" y="-0.59"/>
-<vertex x="-0.56" y="-0.58"/>
-<vertex x="-0.51" y="-0.54"/>
-<vertex x="-0.5" y="-0.46"/>
-<vertex x="-0.5" y="-0.29"/>
-<vertex x="-0.44" y="-0.26"/>
-<vertex x="-0.27" y="-0.26"/>
-<vertex x="-0.2" y="-0.25"/>
-<vertex x="-0.12" y="-0.22"/>
-<vertex x="-0.25" y="0.03"/>
-<vertex x="-0.5" y="0.03"/>
-<vertex x="-0.5" y="0.28"/>
-<vertex x="-0.45" y="0.31"/>
-<vertex x="-0.28" y="0.31"/>
-<vertex x="-0.21" y="0.28"/>
-<vertex x="-0.16" y="0.22"/>
-<vertex x="-0.16" y="0.13"/>
-<vertex x="-0.2" y="0.06"/>
-<vertex x="-0.24" y="0.03"/>
-<vertex x="-0.12" y="-0.22"/>
-<vertex x="-0.04" y="-0.18"/>
-<vertex x="0.02" y="-0.12"/>
-<vertex x="0.08" y="-0.06"/>
-<vertex x="0.11" y="0.02"/>
-<vertex x="0.13" y="0.1"/>
-<vertex x="0.14" y="0.19"/>
-<vertex x="0.14" y="0.27"/>
-</polygon>
-<polygon width="0.01" layer="21">
-<vertex x="0.39" y="0.06"/>
-<vertex x="0.39" y="-0.45"/>
-<vertex x="0.4" y="-0.53"/>
-<vertex x="0.45" y="-0.58"/>
-<vertex x="0.56" y="-0.59"/>
-<vertex x="0.64" y="-0.57"/>
-<vertex x="0.67" y="-0.5"/>
-<vertex x="0.67" y="0.18"/>
-<vertex x="0.63" y="0.25"/>
-<vertex x="0.55" y="0.26"/>
-<vertex x="0.44" y="0.25"/>
-<vertex x="0.39" y="0.2"/>
-<vertex x="0.39" y="0.12"/>
-</polygon>
-<polygon width="0.01" layer="21">
-<vertex x="0.64" y="0.4"/>
-<vertex x="0.67" y="0.47"/>
-<vertex x="0.67" y="0.57"/>
-<vertex x="0.64" y="0.63"/>
-<vertex x="0.56" y="0.66"/>
-<vertex x="0.45" y="0.65"/>
-<vertex x="0.4" y="0.61"/>
-<vertex x="0.39" y="0.53"/>
-<vertex x="0.39" y="0.45"/>
-<vertex x="0.45" y="0.39"/>
-<vertex x="0.54" y="0.38"/>
-<vertex x="0.62" y="0.39"/>
-</polygon>
-</package>
 <package name="RP20400">
 <polygon width="0.01" layer="21">
 <vertex x="-2.54" y="-0.33"/>
@@ -3069,387 +2994,6 @@ Out</text>
 <vertex x="2.54" y="0.55"/>
 </polygon>
 </package>
-<package name="_RASPBERRY1">
-<polygon width="0.01" layer="21">
-<vertex x="-3.62" y="-0.33"/>
-<vertex x="-3.69" y="-0.17"/>
-<vertex x="-3.69" y="-0.11"/>
-<vertex x="-3.64" y="-0.05"/>
-<vertex x="-3.61" y="0.03"/>
-<vertex x="-3.59" y="0.11"/>
-<vertex x="-3.58" y="0.2"/>
-<vertex x="-3.59" y="0.28"/>
-<vertex x="-3.62" y="0.36"/>
-<vertex x="-3.67" y="0.43"/>
-<vertex x="-3.73" y="0.49"/>
-<vertex x="-3.92" y="0.28"/>
-<vertex x="-3.87" y="0.22"/>
-<vertex x="-3.88" y="0.13"/>
-<vertex x="-3.92" y="0.06"/>
-<vertex x="-4" y="0.03"/>
-<vertex x="-4.17" y="0.03"/>
-<vertex x="-4.22" y="0.03"/>
-<vertex x="-4.22" y="0.29"/>
-<vertex x="-4.16" y="0.32"/>
-<vertex x="-4.08" y="0.32"/>
-<vertex x="-4" y="0.32"/>
-<vertex x="-3.92" y="0.29"/>
-<vertex x="-3.73" y="0.49"/>
-<vertex x="-3.8" y="0.55"/>
-<vertex x="-3.88" y="0.58"/>
-<vertex x="-3.96" y="0.61"/>
-<vertex x="-4.04" y="0.61"/>
-<vertex x="-4.39" y="0.61"/>
-<vertex x="-4.47" y="0.59"/>
-<vertex x="-4.5" y="0.52"/>
-<vertex x="-4.5" y="0.44"/>
-<vertex x="-4.5" y="-0.41"/>
-<vertex x="-4.5" y="-0.5"/>
-<vertex x="-4.47" y="-0.56"/>
-<vertex x="-4.39" y="-0.58"/>
-<vertex x="-4.28" y="-0.57"/>
-<vertex x="-4.23" y="-0.53"/>
-<vertex x="-4.22" y="-0.45"/>
-<vertex x="-4.22" y="-0.28"/>
-<vertex x="-4.15" y="-0.25"/>
-<vertex x="-3.98" y="-0.25"/>
-<vertex x="-3.92" y="-0.35"/>
-<vertex x="-3.84" y="-0.55"/>
-<vertex x="-3.77" y="-0.59"/>
-<vertex x="-3.69" y="-0.58"/>
-<vertex x="-3.6" y="-0.52"/>
-<vertex x="-3.57" y="-0.46"/>
-<vertex x="-3.6" y="-0.38"/>
-</polygon>
-<polygon width="0.01" layer="21">
-<vertex x="-2.78" y="0.19"/>
-<vertex x="-2.84" y="0.23"/>
-<vertex x="-2.93" y="0.26"/>
-<vertex x="-3.01" y="0.26"/>
-<vertex x="-3.09" y="0.24"/>
-<vertex x="-3.16" y="0.2"/>
-<vertex x="-3.23" y="0.13"/>
-<vertex x="-3.28" y="0.07"/>
-<vertex x="-3.32" y="-0.01"/>
-<vertex x="-3.34" y="-0.09"/>
-<vertex x="-3.34" y="-0.17"/>
-<vertex x="-3.33" y="-0.26"/>
-<vertex x="-3.31" y="-0.34"/>
-<vertex x="-3.27" y="-0.41"/>
-<vertex x="-3.21" y="-0.48"/>
-<vertex x="-3.14" y="-0.54"/>
-<vertex x="-3.07" y="-0.58"/>
-<vertex x="-2.99" y="-0.59"/>
-<vertex x="-2.9" y="-0.59"/>
-<vertex x="-2.82" y="-0.56"/>
-<vertex x="-2.76" y="-0.5"/>
-<vertex x="-2.73" y="-0.57"/>
-<vertex x="-2.66" y="-0.59"/>
-<vertex x="-2.55" y="-0.59"/>
-<vertex x="-2.5" y="-0.55"/>
-<vertex x="-2.48" y="-0.47"/>
-<vertex x="-2.48" y="0.05"/>
-<vertex x="-2.48" y="0.13"/>
-<vertex x="-2.5" y="0.21"/>
-<vertex x="-2.56" y="0.26"/>
-<vertex x="-2.65" y="0.26"/>
-<vertex x="-2.74" y="0.24"/>
-<vertex x="-2.77" y="0.17"/>
-<vertex x="-2.86" y="-0.03"/>
-<vertex x="-2.8" y="-0.08"/>
-<vertex x="-2.78" y="-0.16"/>
-<vertex x="-2.8" y="-0.24"/>
-<vertex x="-2.86" y="-0.29"/>
-<vertex x="-2.95" y="-0.3"/>
-<vertex x="-3.02" y="-0.27"/>
-<vertex x="-3.06" y="-0.22"/>
-<vertex x="-3.06" y="-0.14"/>
-<vertex x="-3.02" y="-0.06"/>
-<vertex x="-2.95" y="-0.02"/>
-<vertex x="-2.87" y="-0.03"/>
-<vertex x="-2.77" y="0.17"/>
-</polygon>
-<polygon width="0.01" layer="21">
-<vertex x="-2.2" y="-0.5"/>
-<vertex x="-2.12" y="-0.54"/>
-<vertex x="-2.04" y="-0.57"/>
-<vertex x="-1.96" y="-0.59"/>
-<vertex x="-1.88" y="-0.59"/>
-<vertex x="-1.79" y="-0.59"/>
-<vertex x="-1.71" y="-0.57"/>
-<vertex x="-1.64" y="-0.54"/>
-<vertex x="-1.57" y="-0.49"/>
-<vertex x="-1.53" y="-0.42"/>
-<vertex x="-1.52" y="-0.34"/>
-<vertex x="-1.52" y="-0.25"/>
-<vertex x="-1.54" y="-0.17"/>
-<vertex x="-1.59" y="-0.11"/>
-<vertex x="-1.67" y="-0.07"/>
-<vertex x="-1.74" y="-0.04"/>
-<vertex x="-1.83" y="-0.03"/>
-<vertex x="-1.92" y="0"/>
-<vertex x="-1.94" y="0.05"/>
-<vertex x="-1.87" y="0.08"/>
-<vertex x="-1.78" y="0.07"/>
-<vertex x="-1.69" y="0.03"/>
-<vertex x="-1.63" y="0.04"/>
-<vertex x="-1.57" y="0.11"/>
-<vertex x="-1.55" y="0.19"/>
-<vertex x="-1.61" y="0.25"/>
-<vertex x="-1.69" y="0.27"/>
-<vertex x="-1.77" y="0.29"/>
-<vertex x="-1.86" y="0.3"/>
-<vertex x="-1.96" y="0.29"/>
-<vertex x="-2.05" y="0.27"/>
-<vertex x="-2.12" y="0.23"/>
-<vertex x="-2.17" y="0.18"/>
-<vertex x="-2.19" y="0.11"/>
-<vertex x="-2.2" y="0.03"/>
-<vertex x="-2.19" y="-0.06"/>
-<vertex x="-2.15" y="-0.13"/>
-<vertex x="-2.1" y="-0.2"/>
-<vertex x="-2.03" y="-0.24"/>
-<vertex x="-1.95" y="-0.27"/>
-<vertex x="-1.86" y="-0.28"/>
-<vertex x="-1.78" y="-0.31"/>
-<vertex x="-1.8" y="-0.35"/>
-<vertex x="-1.9" y="-0.36"/>
-<vertex x="-1.98" y="-0.33"/>
-<vertex x="-2.06" y="-0.29"/>
-<vertex x="-2.14" y="-0.29"/>
-<vertex x="-2.2" y="-0.36"/>
-<vertex x="-2.23" y="-0.43"/>
-</polygon>
-<polygon width="0.01" layer="21">
-<vertex x="-1.24" y="-0.86"/>
-<vertex x="-1.21" y="-0.93"/>
-<vertex x="-1.13" y="-0.96"/>
-<vertex x="-1.04" y="-0.95"/>
-<vertex x="-0.98" y="-0.91"/>
-<vertex x="-0.96" y="-0.83"/>
-<vertex x="-0.96" y="-0.49"/>
-<vertex x="-0.88" y="-0.27"/>
-<vertex x="-0.94" y="-0.21"/>
-<vertex x="-0.96" y="-0.14"/>
-<vertex x="-0.96" y="-0.09"/>
-<vertex x="-0.9" y="-0.03"/>
-<vertex x="-0.82" y="-0.01"/>
-<vertex x="-0.74" y="-0.03"/>
-<vertex x="-0.69" y="-0.09"/>
-<vertex x="-0.68" y="-0.18"/>
-<vertex x="-0.72" y="-0.25"/>
-<vertex x="-0.8" y="-0.29"/>
-<vertex x="-0.88" y="-0.28"/>
-<vertex x="-0.96" y="-0.49"/>
-<vertex x="-0.91" y="-0.53"/>
-<vertex x="-0.83" y="-0.55"/>
-<vertex x="-0.74" y="-0.56"/>
-<vertex x="-0.66" y="-0.54"/>
-<vertex x="-0.59" y="-0.5"/>
-<vertex x="-0.52" y="-0.44"/>
-<vertex x="-0.46" y="-0.37"/>
-<vertex x="-0.43" y="-0.3"/>
-<vertex x="-0.4" y="-0.22"/>
-<vertex x="-0.4" y="-0.14"/>
-<vertex x="-0.41" y="-0.05"/>
-<vertex x="-0.44" y="0.02"/>
-<vertex x="-0.48" y="0.1"/>
-<vertex x="-0.54" y="0.17"/>
-<vertex x="-0.61" y="0.22"/>
-<vertex x="-0.68" y="0.26"/>
-<vertex x="-0.76" y="0.27"/>
-<vertex x="-0.85" y="0.26"/>
-<vertex x="-0.92" y="0.23"/>
-<vertex x="-0.97" y="0.2"/>
-<vertex x="-1.01" y="0.26"/>
-<vertex x="-1.1" y="0.27"/>
-<vertex x="-1.2" y="0.26"/>
-<vertex x="-1.24" y="0.19"/>
-<vertex x="-1.24" y="-0.81"/>
-</polygon>
-<polygon width="0.01" layer="21">
-<vertex x="0.27" y="0.26"/>
-<vertex x="0.19" y="0.23"/>
-<vertex x="0.14" y="0.2"/>
-<vertex x="0.14" y="0.55"/>
-<vertex x="0.12" y="0.62"/>
-<vertex x="0.05" y="0.66"/>
-<vertex x="-0.06" y="0.66"/>
-<vertex x="-0.12" y="0.62"/>
-<vertex x="-0.14" y="0.55"/>
-<vertex x="-0.14" y="-0.48"/>
-<vertex x="-0.12" y="-0.56"/>
-<vertex x="-0.06" y="-0.59"/>
-<vertex x="0.05" y="-0.59"/>
-<vertex x="0.12" y="-0.55"/>
-<vertex x="0.15" y="-0.53"/>
-<vertex x="0.22" y="-0.3"/>
-<vertex x="0.16" y="-0.24"/>
-<vertex x="0.14" y="-0.16"/>
-<vertex x="0.17" y="-0.08"/>
-<vertex x="0.24" y="-0.03"/>
-<vertex x="0.33" y="-0.03"/>
-<vertex x="0.39" y="-0.08"/>
-<vertex x="0.42" y="-0.16"/>
-<vertex x="0.4" y="-0.24"/>
-<vertex x="0.34" y="-0.29"/>
-<vertex x="0.25" y="-0.3"/>
-<vertex x="0.22" y="-0.3"/>
-<vertex x="0.16" y="-0.53"/>
-<vertex x="0.22" y="-0.57"/>
-<vertex x="0.31" y="-0.59"/>
-<vertex x="0.39" y="-0.59"/>
-<vertex x="0.47" y="-0.56"/>
-<vertex x="0.54" y="-0.51"/>
-<vertex x="0.61" y="-0.44"/>
-<vertex x="0.66" y="-0.37"/>
-<vertex x="0.69" y="-0.29"/>
-<vertex x="0.71" y="-0.21"/>
-<vertex x="0.71" y="-0.12"/>
-<vertex x="0.69" y="-0.04"/>
-<vertex x="0.66" y="0.03"/>
-<vertex x="0.61" y="0.11"/>
-<vertex x="0.55" y="0.17"/>
-<vertex x="0.48" y="0.22"/>
-<vertex x="0.4" y="0.25"/>
-<vertex x="0.32" y="0.26"/>
-</polygon>
-<polygon width="0.01" layer="21">
-<vertex x="1.79" y="-0.14"/>
-<vertex x="1.79" y="-0.05"/>
-<vertex x="1.78" y="0.03"/>
-<vertex x="1.75" y="0.11"/>
-<vertex x="1.7" y="0.18"/>
-<vertex x="1.64" y="0.23"/>
-<vertex x="1.57" y="0.27"/>
-<vertex x="1.48" y="0.29"/>
-<vertex x="1.39" y="0.3"/>
-<vertex x="1.3" y="0.29"/>
-<vertex x="1.22" y="0.26"/>
-<vertex x="1.14" y="0.23"/>
-<vertex x="1.08" y="0.18"/>
-<vertex x="1.02" y="0.12"/>
-<vertex x="0.98" y="0.05"/>
-<vertex x="0.95" y="-0.03"/>
-<vertex x="0.94" y="-0.12"/>
-<vertex x="0.94" y="-0.2"/>
-<vertex x="0.96" y="-0.29"/>
-<vertex x="0.99" y="-0.36"/>
-<vertex x="1.03" y="-0.44"/>
-<vertex x="1.09" y="-0.5"/>
-<vertex x="1.16" y="-0.54"/>
-<vertex x="1.24" y="-0.57"/>
-<vertex x="1.32" y="-0.59"/>
-<vertex x="1.42" y="-0.59"/>
-<vertex x="1.55" y="-0.58"/>
-<vertex x="1.64" y="-0.56"/>
-<vertex x="1.7" y="-0.53"/>
-<vertex x="1.74" y="-0.49"/>
-<vertex x="1.74" y="-0.42"/>
-<vertex x="1.7" y="-0.34"/>
-<vertex x="1.63" y="-0.3"/>
-<vertex x="1.55" y="-0.33"/>
-<vertex x="1.48" y="-0.34"/>
-<vertex x="1.38" y="-0.35"/>
-<vertex x="1.3" y="-0.32"/>
-<vertex x="1.25" y="-0.26"/>
-<vertex x="1.31" y="-0.24"/>
-<vertex x="1.28" y="-0.09"/>
-<vertex x="1.26" y="-0.05"/>
-<vertex x="1.32" y="0.02"/>
-<vertex x="1.4" y="0.04"/>
-<vertex x="1.48" y="0.02"/>
-<vertex x="1.51" y="-0.06"/>
-<vertex x="1.45" y="-0.09"/>
-<vertex x="1.28" y="-0.09"/>
-<vertex x="1.31" y="-0.24"/>
-<vertex x="1.56" y="-0.24"/>
-<vertex x="1.65" y="-0.24"/>
-<vertex x="1.73" y="-0.2"/>
-</polygon>
-<polygon width="0.01" layer="21">
-<vertex x="2.68" y="0.25"/>
-<vertex x="2.59" y="0.27"/>
-<vertex x="2.51" y="0.27"/>
-<vertex x="2.43" y="0.24"/>
-<vertex x="2.36" y="0.19"/>
-<vertex x="2.33" y="0.22"/>
-<vertex x="2.27" y="0.26"/>
-<vertex x="2.16" y="0.26"/>
-<vertex x="2.09" y="0.23"/>
-<vertex x="2.07" y="0.17"/>
-<vertex x="2.07" y="-0.51"/>
-<vertex x="2.1" y="-0.58"/>
-<vertex x="2.19" y="-0.59"/>
-<vertex x="2.29" y="-0.58"/>
-<vertex x="2.34" y="-0.53"/>
-<vertex x="2.35" y="-0.45"/>
-<vertex x="2.35" y="-0.12"/>
-<vertex x="2.38" y="-0.04"/>
-<vertex x="2.45" y="0"/>
-<vertex x="2.53" y="-0.01"/>
-<vertex x="2.61" y="-0.03"/>
-<vertex x="2.68" y="0.01"/>
-<vertex x="2.71" y="0.09"/>
-<vertex x="2.71" y="0.18"/>
-</polygon>
-<polygon width="0.01" layer="21">
-<vertex x="3.58" y="0.25"/>
-<vertex x="3.5" y="0.27"/>
-<vertex x="3.42" y="0.27"/>
-<vertex x="3.33" y="0.24"/>
-<vertex x="3.27" y="0.19"/>
-<vertex x="3.24" y="0.22"/>
-<vertex x="3.18" y="0.26"/>
-<vertex x="3.07" y="0.26"/>
-<vertex x="3" y="0.23"/>
-<vertex x="2.97" y="0.17"/>
-<vertex x="2.97" y="-0.51"/>
-<vertex x="3.01" y="-0.58"/>
-<vertex x="3.09" y="-0.59"/>
-<vertex x="3.19" y="-0.58"/>
-<vertex x="3.24" y="-0.53"/>
-<vertex x="3.25" y="-0.45"/>
-<vertex x="3.25" y="-0.12"/>
-<vertex x="3.28" y="-0.04"/>
-<vertex x="3.36" y="0"/>
-<vertex x="3.44" y="-0.01"/>
-<vertex x="3.52" y="-0.03"/>
-<vertex x="3.58" y="0.01"/>
-<vertex x="3.62" y="0.09"/>
-<vertex x="3.62" y="0.18"/>
-</polygon>
-<polygon width="0.01" layer="21">
-<vertex x="4.67" y="0.27"/>
-<vertex x="4.59" y="0.3"/>
-<vertex x="4.52" y="0.26"/>
-<vertex x="4.49" y="0.22"/>
-<vertex x="4.46" y="0.15"/>
-<vertex x="4.36" y="-0.08"/>
-<vertex x="4.33" y="-0.14"/>
-<vertex x="4.31" y="-0.11"/>
-<vertex x="4.22" y="0.03"/>
-<vertex x="4.09" y="0.26"/>
-<vertex x="4.02" y="0.3"/>
-<vertex x="3.95" y="0.28"/>
-<vertex x="3.86" y="0.22"/>
-<vertex x="3.84" y="0.16"/>
-<vertex x="3.87" y="0.08"/>
-<vertex x="4.17" y="-0.43"/>
-<vertex x="4.16" y="-0.53"/>
-<vertex x="4.07" y="-0.73"/>
-<vertex x="4.04" y="-0.79"/>
-<vertex x="4.03" y="-0.83"/>
-<vertex x="4.04" y="-0.88"/>
-<vertex x="4.12" y="-0.93"/>
-<vertex x="4.21" y="-0.96"/>
-<vertex x="4.28" y="-0.93"/>
-<vertex x="4.32" y="-0.85"/>
-<vertex x="4.73" y="0.07"/>
-<vertex x="4.76" y="0.15"/>
-<vertex x="4.75" y="0.22"/>
-</polygon>
-</package>
 </packages>
 </library>
 <library name="RP2040">
@@ -3645,55 +3189,6 @@ Out</text>
 <rectangle x1="0.7" y1="0.7" x2="1.3" y2="1.3" layer="31"/>
 <rectangle x1="-0.3" y1="-0.3" x2="0.3" y2="0.3" layer="31"/>
 </package>
-<package name="MSOP10">
-<wire x1="-1.5" y1="1.5" x2="-1.5" y2="-1.5" width="0.127" layer="51"/>
-<wire x1="-1.5" y1="-1.5" x2="1.5" y2="-1.5" width="0.2032" layer="21"/>
-<wire x1="1.5" y1="-1.5" x2="1.5" y2="1.5" width="0.127" layer="51"/>
-<wire x1="1.5" y1="1.5" x2="-1.5" y2="1.5" width="0.2032" layer="21"/>
-<circle x="-2.05" y="1.55" radius="0.2" width="0" layer="21"/>
-<smd name="1" x="-2.25" y="1" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="2" x="-2.25" y="0.5" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="3" x="-2.25" y="0" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="4" x="-2.25" y="-0.5" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="5" x="-2.25" y="-1" dx="0.3" dy="1" layer="1" rot="R270" stop="no" cream="no"/>
-<smd name="6" x="2.25" y="-1" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
-<smd name="7" x="2.25" y="-0.5" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
-<smd name="8" x="2.25" y="0" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
-<smd name="9" x="2.25" y="0.5" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
-<smd name="10" x="2.25" y="1" dx="0.3" dy="1" layer="1" rot="R90" stop="no" cream="no"/>
-<rectangle x1="-2.3125" y1="0.5125" x2="-2.0125" y2="1.4875" layer="51" rot="R270"/>
-<rectangle x1="-2.3125" y1="0.0125" x2="-2.0125" y2="0.9875" layer="51" rot="R270"/>
-<rectangle x1="-2.3125" y1="-0.4875" x2="-2.0125" y2="0.4875" layer="51" rot="R270"/>
-<rectangle x1="-2.3125" y1="-0.9875" x2="-2.0125" y2="-0.0125" layer="51" rot="R270"/>
-<rectangle x1="-2.3125" y1="-1.4875" x2="-2.0125" y2="-0.5125" layer="51" rot="R270"/>
-<rectangle x1="-2.45" y1="0.45" x2="-2.05" y2="1.55" layer="29" rot="R270"/>
-<rectangle x1="-2.45" y1="-0.05" x2="-2.05" y2="1.05" layer="29" rot="R270"/>
-<rectangle x1="-2.45" y1="-0.55" x2="-2.05" y2="0.55" layer="29" rot="R270"/>
-<rectangle x1="-2.45" y1="-1.05" x2="-2.05" y2="0.05" layer="29" rot="R270"/>
-<rectangle x1="-2.45" y1="-1.55" x2="-2.05" y2="-0.45" layer="29" rot="R270"/>
-<rectangle x1="-2.3875" y1="0.5625" x2="-2.1375" y2="1.4375" layer="31" rot="R270"/>
-<rectangle x1="-2.3875" y1="0.0625" x2="-2.1375" y2="0.9375" layer="31" rot="R270"/>
-<rectangle x1="-2.3875" y1="-0.4375" x2="-2.1375" y2="0.4375" layer="31" rot="R270"/>
-<rectangle x1="-2.3875" y1="-0.9375" x2="-2.1375" y2="-0.0625" layer="31" rot="R270"/>
-<rectangle x1="-2.3875" y1="-1.4375" x2="-2.1375" y2="-0.5625" layer="31" rot="R270"/>
-<rectangle x1="2.0125" y1="-1.4875" x2="2.3125" y2="-0.5125" layer="51" rot="R90"/>
-<rectangle x1="2.0125" y1="-0.9875" x2="2.3125" y2="-0.0125" layer="51" rot="R90"/>
-<rectangle x1="2.0125" y1="-0.4875" x2="2.3125" y2="0.4875" layer="51" rot="R90"/>
-<rectangle x1="2.0125" y1="0.0125" x2="2.3125" y2="0.9875" layer="51" rot="R90"/>
-<rectangle x1="2.0125" y1="0.5125" x2="2.3125" y2="1.4875" layer="51" rot="R90"/>
-<rectangle x1="2.05" y1="-1.55" x2="2.45" y2="-0.45" layer="29" rot="R90"/>
-<rectangle x1="2.05" y1="-1.05" x2="2.45" y2="0.05" layer="29" rot="R90"/>
-<rectangle x1="2.05" y1="-0.55" x2="2.45" y2="0.55" layer="29" rot="R90"/>
-<rectangle x1="2.05" y1="-0.05" x2="2.45" y2="1.05" layer="29" rot="R90"/>
-<rectangle x1="2.05" y1="0.45" x2="2.45" y2="1.55" layer="29" rot="R90"/>
-<rectangle x1="2.1375" y1="-1.4375" x2="2.3875" y2="-0.5625" layer="31" rot="R90"/>
-<rectangle x1="2.1375" y1="-0.9375" x2="2.3875" y2="-0.0625" layer="31" rot="R90"/>
-<rectangle x1="2.1375" y1="-0.4375" x2="2.3875" y2="0.4375" layer="31" rot="R90"/>
-<rectangle x1="2.1375" y1="0.0625" x2="2.3875" y2="0.9375" layer="31" rot="R90"/>
-<rectangle x1="2.1375" y1="0.5625" x2="2.3875" y2="1.4375" layer="31" rot="R90"/>
-<text x="0" y="1.905" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-2.54" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center">&gt;VALUE</text>
-</package>
 </packages>
 </library>
 <library name="SparkFun-IC-Memory">
@@ -3759,27 +3254,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <rectangle x1="-0.4" y1="-0.4" x2="0.4" y2="0.4" layer="31"/>
 <text x="0" y="3.175" size="0.762" layer="25" align="center">&gt;Name</text>
 <text x="0" y="-3.175" size="0.762" layer="27" align="center">&gt;Value</text>
-</package>
-</packages>
-</library>
-<library name="SparkFun-Retired">
-<description>&lt;h3&gt;SparkFun Electronics' Retired foot prints&lt;/h3&gt;
-In this library you'll find all manner of retired footprints for resistors, capacitors, board names, ICs, etc., that are &lt;b&gt; no longer used&lt;/b&gt; in our catalog.
-&lt;br&gt;
-&lt;br&gt;
-We've spent an enormous amount of time creating and checking these footprints and parts, but it is &lt;b&gt; the end user's responsibility&lt;/b&gt; to ensure correctness and suitablity for a given componet or application. 
-&lt;br&gt;
-&lt;br&gt;If you enjoy using this library, please buy one of our products at &lt;a href=" www.sparkfun.com"&gt;SparkFun.com&lt;/a&gt;.
-&lt;br&gt;
-&lt;br&gt;
-&lt;b&gt;Licensing:&lt;/b&gt; Creative Commons ShareAlike 4.0 International - https://creativecommons.org/licenses/by-sa/4.0/ 
-&lt;br&gt;
-&lt;br&gt;
-You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
-<packages>
-<package name="FIDUCIAL-1.5X3">
-<circle x="0" y="0" radius="0.9055" width="1.27" layer="29"/>
-<smd name="1" x="0" y="0" dx="1.5" dy="1.5" layer="1" roundness="100" cream="no"/>
 </package>
 </packages>
 </library>
@@ -3852,6 +3326,27 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <rectangle x1="2.1375" y1="0.5625" x2="2.3875" y2="1.4375" layer="31" rot="R90"/>
 <text x="0" y="1.905" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
 <text x="0" y="-2.54" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center">&gt;VALUE</text>
+</package>
+</packages>
+</library>
+<library name="SparkFun-Retired">
+<description>&lt;h3&gt;SparkFun Electronics' Retired foot prints&lt;/h3&gt;
+In this library you'll find all manner of retired footprints for resistors, capacitors, board names, ICs, etc., that are &lt;b&gt; no longer used&lt;/b&gt; in our catalog.
+&lt;br&gt;
+&lt;br&gt;
+We've spent an enormous amount of time creating and checking these footprints and parts, but it is &lt;b&gt; the end user's responsibility&lt;/b&gt; to ensure correctness and suitablity for a given componet or application. 
+&lt;br&gt;
+&lt;br&gt;If you enjoy using this library, please buy one of our products at &lt;a href=" www.sparkfun.com"&gt;SparkFun.com&lt;/a&gt;.
+&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Licensing:&lt;/b&gt; Creative Commons ShareAlike 4.0 International - https://creativecommons.org/licenses/by-sa/4.0/ 
+&lt;br&gt;
+&lt;br&gt;
+You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
+<packages>
+<package name="FIDUCIAL-1.5X3">
+<circle x="0" y="0" radius="0.9055" width="1.27" layer="29"/>
+<smd name="1" x="0" y="0" dx="1.5" dy="1.5" layer="1" roundness="100" cream="no"/>
 </package>
 </packages>
 </library>
@@ -4067,13 +3562,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD2" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="21" y="21" smashed="yes"/>
 <element name="FD3" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="21" y="21" smashed="yes" rot="MR0"/>
 <element name="FD4" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="1" y="5" smashed="yes" rot="MR0"/>
-<element name="LOGO3" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="2" y="20" smashed="yes" rot="MR0"/>
+<element name="LOGO3" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="19.746" y="18.701" smashed="yes" rot="MR90"/>
 <element name="J1" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="11" y="0" smashed="yes"/>
 <element name="LOGO1" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="1.7" y="11.2" smashed="yes" rot="MR90"/>
-<element name="LOGO2" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="20" y="20" smashed="yes" rot="R90"/>
-<element name="U$1" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="2" y="7" smashed="yes" rot="R90"/>
-<element name="U$7" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="5" y="20" smashed="yes" rot="MR0"/>
-<element name="U$11" library="output" package="STAT0" value="" x="0.381" y="19.812" smashed="yes"/>
+<element name="LOGO2" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="19.685" y="19.431" smashed="yes" rot="R270"/>
+<element name="U$1" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="1.81" y="6.97" smashed="yes" rot="R270"/>
+<element name="U$7" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="19.746" y="15.955" smashed="yes" rot="MR90"/>
+<element name="U$11" library="output" package="STAT0" value="" x="0.381" y="19.685" smashed="yes"/>
 <element name="U3" library="RP2040" package="QFN-56" value="RP2040" x="11" y="12" smashed="yes" rot="R270">
 <attribute name="NAME" x="13.159" y="12" size="0.6096" layer="25" rot="R270" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="11" y="12" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
@@ -4178,10 +3673,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="3" y="12" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="1.328" y="11.992" size="0.6096" layer="27" font="vector" ratio="12" rot="R270" align="top-center"/>
 </element>
-<element name="U$8" library="output" package="PI2" value="" x="16" y="17.3" smashed="yes" rot="R90"/>
-<element name="U$9" library="output" package="RP20400" value="" x="18" y="12" smashed="yes" rot="R90"/>
-<element name="U$10" library="output" package="_RASPBERRY1" value="" x="16" y="10.6" smashed="yes" rot="R90"/>
-<element name="U$12" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="20" y="12" smashed="yes" rot="R90"/>
+<element name="U$9" library="output" package="RP20400" value="" x="17.526" y="11.938" smashed="yes" rot="R270"/>
+<element name="U$12" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="19.177" y="12.065" smashed="yes" rot="R270"/>
 <element name="R4" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="5" y="15" smashed="yes" rot="MR90">
 <attribute name="NAME" x="5.562" y="15" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="5" y="15" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
@@ -4207,10 +3700,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="23.81" y="11.46" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 <attribute name="VALUE" x="20" y="13.238" size="0.6096" layer="28" font="vector" ratio="20" rot="MR0" align="top-center"/>
 </element>
-<element name="U$2" library="output" package="PI2" value="" x="7.2" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$3" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="4" y="7" smashed="yes" rot="MR90"/>
-<element name="U$4" library="output" package="RP20400" value="" x="5.7" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$5" library="output" package="_RASPBERRY1" value="" x="8.9" y="7.3" smashed="yes" rot="MR90"/>
+<element name="U$3" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="5.715" y="6.731" smashed="yes" rot="MR90"/>
+<element name="U$4" library="output" package="RP20400" value="" x="3.937" y="6.858" smashed="yes" rot="MR90"/>
 <element name="C16" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="25.506940625" y="10" smashed="yes">
 <attribute name="NAME" x="25.506940625" y="10.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="21.506940625" y="14" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -4235,13 +3726,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD6" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="43.506940625" y="21" smashed="yes"/>
 <element name="FD7" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="43.506940625" y="21" smashed="yes" rot="MR0"/>
 <element name="FD8" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="23.506940625" y="5" smashed="yes" rot="MR0"/>
-<element name="LOGO4" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="24.506940625" y="20" smashed="yes" rot="MR0"/>
+<element name="LOGO4" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="42.252940625" y="18.701" smashed="yes" rot="MR90"/>
 <element name="J2" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="33.506940625" y="0" smashed="yes"/>
 <element name="LOGO5" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="24.206940625" y="11.2" smashed="yes" rot="MR90"/>
-<element name="LOGO6" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="42.506940625" y="20" smashed="yes" rot="R90"/>
-<element name="U$6" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="24.506940625" y="7" smashed="yes" rot="R90"/>
-<element name="U$13" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="27.506940625" y="20" smashed="yes" rot="MR0"/>
-<element name="U$14" library="output" package="STAT0" value="" x="22.887940625" y="19.812" smashed="yes"/>
+<element name="LOGO6" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="42.191940625" y="19.431" smashed="yes" rot="R270"/>
+<element name="U$2" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="24.316940625" y="6.97" smashed="yes" rot="R270"/>
+<element name="U$5" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="42.252940625" y="15.955" smashed="yes" rot="MR90"/>
+<element name="U$6" library="output" package="STAT0" value="" x="22.887940625" y="19.685" smashed="yes"/>
 <element name="U4" library="RP2040" package="QFN-56" value="RP2040" x="33.506940625" y="12" smashed="yes" rot="R270">
 <attribute name="NAME" x="35.665940625" y="12" size="0.6096" layer="25" rot="R270" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="33.506940625" y="12" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
@@ -4346,16 +3837,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="25.506940625" y="12" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="23.834940625" y="11.992" size="0.6096" layer="27" font="vector" ratio="12" rot="R270" align="top-center"/>
 </element>
-<element name="U$15" library="output" package="PI2" value="" x="38.506940625" y="17.3" smashed="yes" rot="R90"/>
-<element name="U$16" library="output" package="RP20400" value="" x="40.506940625" y="12" smashed="yes" rot="R90"/>
-<element name="U$17" library="output" package="_RASPBERRY1" value="" x="38.506940625" y="10.6" smashed="yes" rot="R90"/>
-<element name="U$18" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="42.506940625" y="12" smashed="yes" rot="R90"/>
+<element name="U$8" library="output" package="RP20400" value="" x="40.032940625" y="11.938" smashed="yes" rot="R270"/>
+<element name="U$10" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="41.683940625" y="12.065" smashed="yes" rot="R270"/>
 <element name="R15" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="27.506940625" y="15" smashed="yes" rot="MR90">
 <attribute name="NAME" x="28.068940625" y="15" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="27.506940625" y="15" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="26.944940625" y="15" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="top-center"/>
 </element>
-<element name="U6" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="41.506940625" y="10" smashed="yes" rot="MR270">
+<element name="U6" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="41.506940625" y="10" smashed="yes" rot="MR270">
 <attribute name="NAME" x="39.601940625" y="10" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="41.506940625" y="10" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="44.046940625" y="10" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
@@ -4375,10 +3864,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="46.316940625" y="11.46" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 <attribute name="VALUE" x="42.506940625" y="13.238" size="0.6096" layer="28" font="vector" ratio="20" rot="MR0" align="top-center"/>
 </element>
-<element name="U$19" library="output" package="PI2" value="" x="29.706940625" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$20" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="26.506940625" y="7" smashed="yes" rot="MR90"/>
-<element name="U$21" library="output" package="RP20400" value="" x="28.206940625" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$22" library="output" package="_RASPBERRY1" value="" x="31.406940625" y="7.3" smashed="yes" rot="MR90"/>
+<element name="U$13" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="28.221940625" y="6.731" smashed="yes" rot="MR90"/>
+<element name="U$14" library="output" package="RP20400" value="" x="26.443940625" y="6.858" smashed="yes" rot="MR90"/>
 <element name="C33" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="48.01641875" y="10" smashed="yes">
 <attribute name="NAME" x="48.01641875" y="10.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="44.01641875" y="14" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -4403,13 +3890,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD10" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="66.01641875" y="21" smashed="yes"/>
 <element name="FD11" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="66.01641875" y="21" smashed="yes" rot="MR0"/>
 <element name="FD12" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="46.01641875" y="5" smashed="yes" rot="MR0"/>
-<element name="LOGO7" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="47.01641875" y="20" smashed="yes" rot="MR0"/>
+<element name="LOGO7" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="64.76241875" y="18.701" smashed="yes" rot="MR90"/>
 <element name="J3" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="56.01641875" y="0" smashed="yes"/>
 <element name="LOGO8" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="46.71641875" y="11.2" smashed="yes" rot="MR90"/>
-<element name="LOGO9" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="65.01641875" y="20" smashed="yes" rot="R90"/>
-<element name="U$23" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="47.01641875" y="7" smashed="yes" rot="R90"/>
-<element name="U$24" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="50.01641875" y="20" smashed="yes" rot="MR0"/>
-<element name="U$25" library="output" package="STAT0" value="" x="45.39741875" y="19.812" smashed="yes"/>
+<element name="LOGO9" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="64.70141875" y="19.431" smashed="yes" rot="R270"/>
+<element name="U$15" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="46.82641875" y="6.97" smashed="yes" rot="R270"/>
+<element name="U$16" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="64.76241875" y="15.955" smashed="yes" rot="MR90"/>
+<element name="U$17" library="output" package="STAT0" value="" x="45.39741875" y="19.685" smashed="yes"/>
 <element name="U7" library="RP2040" package="QFN-56" value="RP2040" x="56.01641875" y="12" smashed="yes" rot="R270">
 <attribute name="NAME" x="58.17541875" y="12" size="0.6096" layer="25" rot="R270" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="56.01641875" y="12" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
@@ -4514,16 +4001,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="48.01641875" y="12" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="46.34441875" y="11.992" size="0.6096" layer="27" font="vector" ratio="12" rot="R270" align="top-center"/>
 </element>
-<element name="U$26" library="output" package="PI2" value="" x="61.01641875" y="17.3" smashed="yes" rot="R90"/>
-<element name="U$27" library="output" package="RP20400" value="" x="63.01641875" y="12" smashed="yes" rot="R90"/>
-<element name="U$28" library="output" package="_RASPBERRY1" value="" x="61.01641875" y="10.6" smashed="yes" rot="R90"/>
-<element name="U$29" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="65.01641875" y="12" smashed="yes" rot="R90"/>
+<element name="U$18" library="output" package="RP20400" value="" x="62.54241875" y="11.938" smashed="yes" rot="R270"/>
+<element name="U$19" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="64.19341875" y="12.065" smashed="yes" rot="R270"/>
 <element name="R25" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="50.01641875" y="15" smashed="yes" rot="MR90">
 <attribute name="NAME" x="50.57841875" y="15" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="50.01641875" y="15" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="49.45441875" y="15" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="top-center"/>
 </element>
-<element name="U9" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="64.01641875" y="10" smashed="yes" rot="MR270">
+<element name="U9" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="64.01641875" y="10" smashed="yes" rot="MR270">
 <attribute name="NAME" x="62.11141875" y="10" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="64.01641875" y="10" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="66.55641875" y="10" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
@@ -4543,10 +4028,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="68.82641875" y="11.46" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 <attribute name="VALUE" x="65.01641875" y="13.238" size="0.6096" layer="28" font="vector" ratio="20" rot="MR0" align="top-center"/>
 </element>
-<element name="U$30" library="output" package="PI2" value="" x="52.21641875" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$31" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="49.01641875" y="7" smashed="yes" rot="MR90"/>
-<element name="U$32" library="output" package="RP20400" value="" x="50.71641875" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$33" library="output" package="_RASPBERRY1" value="" x="53.91641875" y="7.3" smashed="yes" rot="MR90"/>
+<element name="U$20" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="50.73141875" y="6.731" smashed="yes" rot="MR90"/>
+<element name="U$21" library="output" package="RP20400" value="" x="48.95341875" y="6.858" smashed="yes" rot="MR90"/>
 <element name="C49" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="70.523359375" y="10" smashed="yes">
 <attribute name="NAME" x="70.523359375" y="10.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="66.523359375" y="14" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -4571,13 +4054,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD14" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="88.523359375" y="21" smashed="yes"/>
 <element name="FD15" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="88.523359375" y="21" smashed="yes" rot="MR0"/>
 <element name="FD16" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="68.523359375" y="5" smashed="yes" rot="MR0"/>
-<element name="LOGO10" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="69.523359375" y="20" smashed="yes" rot="MR0"/>
+<element name="LOGO10" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="87.269359375" y="18.701" smashed="yes" rot="MR90"/>
 <element name="J4" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="78.523359375" y="0" smashed="yes"/>
 <element name="LOGO11" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="69.223359375" y="11.2" smashed="yes" rot="MR90"/>
-<element name="LOGO12" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="87.523359375" y="20" smashed="yes" rot="R90"/>
-<element name="U$34" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="69.523359375" y="7" smashed="yes" rot="R90"/>
-<element name="U$35" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="72.523359375" y="20" smashed="yes" rot="MR0"/>
-<element name="U$36" library="output" package="STAT0" value="" x="67.904359375" y="19.812" smashed="yes"/>
+<element name="LOGO12" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="87.208359375" y="19.431" smashed="yes" rot="R270"/>
+<element name="U$22" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="69.333359375" y="6.97" smashed="yes" rot="R270"/>
+<element name="U$23" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="87.269359375" y="15.955" smashed="yes" rot="MR90"/>
+<element name="U$24" library="output" package="STAT0" value="" x="67.904359375" y="19.685" smashed="yes"/>
 <element name="U10" library="RP2040" package="QFN-56" value="RP2040" x="78.523359375" y="12" smashed="yes" rot="R270">
 <attribute name="NAME" x="80.682359375" y="12" size="0.6096" layer="25" rot="R270" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="78.523359375" y="12" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
@@ -4682,16 +4165,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="70.523359375" y="12" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="68.851359375" y="11.992" size="0.6096" layer="27" font="vector" ratio="12" rot="R270" align="top-center"/>
 </element>
-<element name="U$37" library="output" package="PI2" value="" x="83.523359375" y="17.3" smashed="yes" rot="R90"/>
-<element name="U$38" library="output" package="RP20400" value="" x="85.523359375" y="12" smashed="yes" rot="R90"/>
-<element name="U$39" library="output" package="_RASPBERRY1" value="" x="83.523359375" y="10.6" smashed="yes" rot="R90"/>
-<element name="U$40" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="87.523359375" y="12" smashed="yes" rot="R90"/>
+<element name="U$25" library="output" package="RP20400" value="" x="85.049359375" y="11.938" smashed="yes" rot="R270"/>
+<element name="U$26" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="86.700359375" y="12.065" smashed="yes" rot="R270"/>
 <element name="R34" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="72.523359375" y="15" smashed="yes" rot="MR90">
 <attribute name="NAME" x="73.085359375" y="15" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="72.523359375" y="15" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="71.961359375" y="15" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="top-center"/>
 </element>
-<element name="U12" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="86.523359375" y="10" smashed="yes" rot="MR270">
+<element name="U12" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="86.523359375" y="10" smashed="yes" rot="MR270">
 <attribute name="NAME" x="84.618359375" y="10" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="86.523359375" y="10" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="89.063359375" y="10" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
@@ -4711,10 +4192,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="91.333359375" y="11.46" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 <attribute name="VALUE" x="87.523359375" y="13.238" size="0.6096" layer="28" font="vector" ratio="20" rot="MR0" align="top-center"/>
 </element>
-<element name="U$41" library="output" package="PI2" value="" x="74.723359375" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$42" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="71.523359375" y="7" smashed="yes" rot="MR90"/>
-<element name="U$43" library="output" package="RP20400" value="" x="73.223359375" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$44" library="output" package="_RASPBERRY1" value="" x="76.423359375" y="7.3" smashed="yes" rot="MR90"/>
+<element name="U$27" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="73.238359375" y="6.731" smashed="yes" rot="MR90"/>
+<element name="U$28" library="output" package="RP20400" value="" x="71.460359375" y="6.858" smashed="yes" rot="MR90"/>
 <element name="C65" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="93.032840625" y="10" smashed="yes">
 <attribute name="NAME" x="93.032840625" y="10.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="89.032840625" y="14" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -4739,13 +4218,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD18" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="111.032840625" y="21" smashed="yes"/>
 <element name="FD19" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="111.032840625" y="21" smashed="yes" rot="MR0"/>
 <element name="FD20" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="91.032840625" y="5" smashed="yes" rot="MR0"/>
-<element name="LOGO13" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="92.032840625" y="20" smashed="yes" rot="MR0"/>
+<element name="LOGO13" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="109.778840625" y="18.701" smashed="yes" rot="MR90"/>
 <element name="J5" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="101.032840625" y="0" smashed="yes"/>
 <element name="LOGO14" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="91.732840625" y="11.2" smashed="yes" rot="MR90"/>
-<element name="LOGO15" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="110.032840625" y="20" smashed="yes" rot="R90"/>
-<element name="U$45" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="92.032840625" y="7" smashed="yes" rot="R90"/>
-<element name="U$46" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="95.032840625" y="20" smashed="yes" rot="MR0"/>
-<element name="U$47" library="output" package="STAT0" value="" x="90.413840625" y="19.812" smashed="yes"/>
+<element name="LOGO15" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="109.717840625" y="19.431" smashed="yes" rot="R270"/>
+<element name="U$29" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="91.842840625" y="6.97" smashed="yes" rot="R270"/>
+<element name="U$30" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="109.778840625" y="15.955" smashed="yes" rot="MR90"/>
+<element name="U$31" library="output" package="STAT0" value="" x="90.413840625" y="19.685" smashed="yes"/>
 <element name="U13" library="RP2040" package="QFN-56" value="RP2040" x="101.032840625" y="12" smashed="yes" rot="R270">
 <attribute name="NAME" x="103.191840625" y="12" size="0.6096" layer="25" rot="R270" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="101.032840625" y="12" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
@@ -4850,16 +4329,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="93.032840625" y="12" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="91.360840625" y="11.992" size="0.6096" layer="27" font="vector" ratio="12" rot="R270" align="top-center"/>
 </element>
-<element name="U$48" library="output" package="PI2" value="" x="106.032840625" y="17.3" smashed="yes" rot="R90"/>
-<element name="U$49" library="output" package="RP20400" value="" x="108.032840625" y="12" smashed="yes" rot="R90"/>
-<element name="U$50" library="output" package="_RASPBERRY1" value="" x="106.032840625" y="10.6" smashed="yes" rot="R90"/>
-<element name="U$51" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="110.032840625" y="12" smashed="yes" rot="R90"/>
+<element name="U$32" library="output" package="RP20400" value="" x="107.558840625" y="11.938" smashed="yes" rot="R270"/>
+<element name="U$33" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="109.209840625" y="12.065" smashed="yes" rot="R270"/>
 <element name="R43" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="95.032840625" y="15" smashed="yes" rot="MR90">
 <attribute name="NAME" x="95.594840625" y="15" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="95.032840625" y="15" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="94.470840625" y="15" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="top-center"/>
 </element>
-<element name="U15" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="109.032840625" y="10" smashed="yes" rot="MR270">
+<element name="U15" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="109.032840625" y="10" smashed="yes" rot="MR270">
 <attribute name="NAME" x="107.127840625" y="10" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="109.032840625" y="10" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="111.572840625" y="10" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
@@ -4879,10 +4356,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="113.842840625" y="11.46" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 <attribute name="VALUE" x="110.032840625" y="13.238" size="0.6096" layer="28" font="vector" ratio="20" rot="MR0" align="top-center"/>
 </element>
-<element name="U$52" library="output" package="PI2" value="" x="97.232840625" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$53" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="94.032840625" y="7" smashed="yes" rot="MR90"/>
-<element name="U$54" library="output" package="RP20400" value="" x="95.732840625" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$55" library="output" package="_RASPBERRY1" value="" x="98.932840625" y="7.3" smashed="yes" rot="MR90"/>
+<element name="U$34" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="95.747840625" y="6.731" smashed="yes" rot="MR90"/>
+<element name="U$35" library="output" package="RP20400" value="" x="93.969840625" y="6.858" smashed="yes" rot="MR90"/>
 <element name="C81" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="115.53978125" y="10" smashed="yes">
 <attribute name="NAME" x="115.53978125" y="10.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="111.53978125" y="14" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -4907,13 +4382,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD22" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="133.53978125" y="21" smashed="yes"/>
 <element name="FD23" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="133.53978125" y="21" smashed="yes" rot="MR0"/>
 <element name="FD24" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="113.53978125" y="5" smashed="yes" rot="MR0"/>
-<element name="LOGO16" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="114.53978125" y="20" smashed="yes" rot="MR0"/>
+<element name="LOGO16" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="132.28578125" y="18.701" smashed="yes" rot="MR90"/>
 <element name="J6" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="123.53978125" y="0" smashed="yes"/>
 <element name="LOGO17" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="114.23978125" y="11.2" smashed="yes" rot="MR90"/>
-<element name="LOGO18" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="132.53978125" y="20" smashed="yes" rot="R90"/>
-<element name="U$56" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="114.53978125" y="7" smashed="yes" rot="R90"/>
-<element name="U$57" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="117.53978125" y="20" smashed="yes" rot="MR0"/>
-<element name="U$58" library="output" package="STAT0" value="" x="112.92078125" y="19.812" smashed="yes"/>
+<element name="LOGO18" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="132.22478125" y="19.431" smashed="yes" rot="R270"/>
+<element name="U$36" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="114.34978125" y="6.97" smashed="yes" rot="R270"/>
+<element name="U$37" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="132.28578125" y="15.955" smashed="yes" rot="MR90"/>
+<element name="U$38" library="output" package="STAT0" value="" x="112.92078125" y="19.685" smashed="yes"/>
 <element name="U16" library="RP2040" package="QFN-56" value="RP2040" x="123.53978125" y="12" smashed="yes" rot="R270">
 <attribute name="NAME" x="125.69878125" y="12" size="0.6096" layer="25" rot="R270" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="123.53978125" y="12" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
@@ -5018,16 +4493,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="115.53978125" y="12" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="113.86778125" y="11.992" size="0.6096" layer="27" font="vector" ratio="12" rot="R270" align="top-center"/>
 </element>
-<element name="U$59" library="output" package="PI2" value="" x="128.53978125" y="17.3" smashed="yes" rot="R90"/>
-<element name="U$60" library="output" package="RP20400" value="" x="130.53978125" y="12" smashed="yes" rot="R90"/>
-<element name="U$61" library="output" package="_RASPBERRY1" value="" x="128.53978125" y="10.6" smashed="yes" rot="R90"/>
-<element name="U$62" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="132.53978125" y="12" smashed="yes" rot="R90"/>
+<element name="U$39" library="output" package="RP20400" value="" x="130.06578125" y="11.938" smashed="yes" rot="R270"/>
+<element name="U$40" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="131.71678125" y="12.065" smashed="yes" rot="R270"/>
 <element name="R52" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="117.53978125" y="15" smashed="yes" rot="MR90">
 <attribute name="NAME" x="118.10178125" y="15" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="117.53978125" y="15" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="116.97778125" y="15" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="top-center"/>
 </element>
-<element name="U18" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="131.53978125" y="10" smashed="yes" rot="MR270">
+<element name="U18" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="131.53978125" y="10" smashed="yes" rot="MR270">
 <attribute name="NAME" x="129.63478125" y="10" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="131.53978125" y="10" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="134.07978125" y="10" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
@@ -5047,10 +4520,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="136.34978125" y="11.46" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 <attribute name="VALUE" x="132.53978125" y="13.238" size="0.6096" layer="28" font="vector" ratio="20" rot="MR0" align="top-center"/>
 </element>
-<element name="U$63" library="output" package="PI2" value="" x="119.73978125" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$64" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="116.53978125" y="7" smashed="yes" rot="MR90"/>
-<element name="U$65" library="output" package="RP20400" value="" x="118.23978125" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$66" library="output" package="_RASPBERRY1" value="" x="121.43978125" y="7.3" smashed="yes" rot="MR90"/>
+<element name="U$41" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="118.25478125" y="6.731" smashed="yes" rot="MR90"/>
+<element name="U$42" library="output" package="RP20400" value="" x="116.47678125" y="6.858" smashed="yes" rot="MR90"/>
 <element name="C97" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="138.049259375" y="10" smashed="yes">
 <attribute name="NAME" x="138.049259375" y="10.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="134.049259375" y="14" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -5075,13 +4546,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD26" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="156.049259375" y="21" smashed="yes"/>
 <element name="FD27" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="156.049259375" y="21" smashed="yes" rot="MR0"/>
 <element name="FD28" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="136.049259375" y="5" smashed="yes" rot="MR0"/>
-<element name="LOGO19" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="137.049259375" y="20" smashed="yes" rot="MR0"/>
+<element name="LOGO19" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="154.795259375" y="18.701" smashed="yes" rot="MR90"/>
 <element name="J7" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="146.049259375" y="0" smashed="yes"/>
 <element name="LOGO20" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="136.749259375" y="11.2" smashed="yes" rot="MR90"/>
-<element name="LOGO21" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="155.049259375" y="20" smashed="yes" rot="R90"/>
-<element name="U$67" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="137.049259375" y="7" smashed="yes" rot="R90"/>
-<element name="U$68" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="140.049259375" y="20" smashed="yes" rot="MR0"/>
-<element name="U$69" library="output" package="STAT0" value="" x="135.430259375" y="19.812" smashed="yes"/>
+<element name="LOGO21" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="154.734259375" y="19.431" smashed="yes" rot="R270"/>
+<element name="U$43" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="136.859259375" y="6.97" smashed="yes" rot="R270"/>
+<element name="U$44" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="154.795259375" y="15.955" smashed="yes" rot="MR90"/>
+<element name="U$45" library="output" package="STAT0" value="" x="135.430259375" y="19.685" smashed="yes"/>
 <element name="U19" library="RP2040" package="QFN-56" value="RP2040" x="146.049259375" y="12" smashed="yes" rot="R270">
 <attribute name="NAME" x="148.208259375" y="12" size="0.6096" layer="25" rot="R270" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="146.049259375" y="12" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
@@ -5186,16 +4657,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="138.049259375" y="12" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="136.377259375" y="11.992" size="0.6096" layer="27" font="vector" ratio="12" rot="R270" align="top-center"/>
 </element>
-<element name="U$70" library="output" package="PI2" value="" x="151.049259375" y="17.3" smashed="yes" rot="R90"/>
-<element name="U$71" library="output" package="RP20400" value="" x="153.049259375" y="12" smashed="yes" rot="R90"/>
-<element name="U$72" library="output" package="_RASPBERRY1" value="" x="151.049259375" y="10.6" smashed="yes" rot="R90"/>
-<element name="U$73" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="155.049259375" y="12" smashed="yes" rot="R90"/>
+<element name="U$46" library="output" package="RP20400" value="" x="152.575259375" y="11.938" smashed="yes" rot="R270"/>
+<element name="U$47" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="154.226259375" y="12.065" smashed="yes" rot="R270"/>
 <element name="R61" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="140.049259375" y="15" smashed="yes" rot="MR90">
 <attribute name="NAME" x="140.611259375" y="15" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="140.049259375" y="15" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="139.487259375" y="15" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="top-center"/>
 </element>
-<element name="U21" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="154.049259375" y="10" smashed="yes" rot="MR270">
+<element name="U21" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="154.049259375" y="10" smashed="yes" rot="MR270">
 <attribute name="NAME" x="152.144259375" y="10" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="154.049259375" y="10" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="156.589259375" y="10" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
@@ -5215,10 +4684,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="158.859259375" y="11.46" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 <attribute name="VALUE" x="155.049259375" y="13.238" size="0.6096" layer="28" font="vector" ratio="20" rot="MR0" align="top-center"/>
 </element>
-<element name="U$74" library="output" package="PI2" value="" x="142.249259375" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$75" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="139.049259375" y="7" smashed="yes" rot="MR90"/>
-<element name="U$76" library="output" package="RP20400" value="" x="140.749259375" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$77" library="output" package="_RASPBERRY1" value="" x="143.949259375" y="7.3" smashed="yes" rot="MR90"/>
+<element name="U$48" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="140.764259375" y="6.731" smashed="yes" rot="MR90"/>
+<element name="U$49" library="output" package="RP20400" value="" x="138.986259375" y="6.858" smashed="yes" rot="MR90"/>
 <element name="C113" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="160.5562" y="10" smashed="yes">
 <attribute name="NAME" x="160.5562" y="10.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="156.5562" y="14" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
@@ -5243,13 +4710,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD30" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="178.5562" y="21" smashed="yes"/>
 <element name="FD31" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="178.5562" y="21" smashed="yes" rot="MR0"/>
 <element name="FD32" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="158.5562" y="5" smashed="yes" rot="MR0"/>
-<element name="LOGO22" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="159.5562" y="20" smashed="yes" rot="MR0"/>
+<element name="LOGO22" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="177.3022" y="18.701" smashed="yes" rot="MR90"/>
 <element name="J8" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="168.5562" y="0" smashed="yes"/>
 <element name="LOGO23" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="159.2562" y="11.2" smashed="yes" rot="MR90"/>
-<element name="LOGO24" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="177.5562" y="20" smashed="yes" rot="R90"/>
-<element name="U$78" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="159.5562" y="7" smashed="yes" rot="R90"/>
-<element name="U$79" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="162.5562" y="20" smashed="yes" rot="MR0"/>
-<element name="U$80" library="output" package="STAT0" value="" x="157.9372" y="19.812" smashed="yes"/>
+<element name="LOGO24" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="177.2412" y="19.431" smashed="yes" rot="R270"/>
+<element name="U$50" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="159.3662" y="6.97" smashed="yes" rot="R270"/>
+<element name="U$51" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="177.3022" y="15.955" smashed="yes" rot="MR90"/>
+<element name="U$52" library="output" package="STAT0" value="" x="157.9372" y="19.685" smashed="yes"/>
 <element name="U22" library="RP2040" package="QFN-56" value="RP2040" x="168.5562" y="12" smashed="yes" rot="R270">
 <attribute name="NAME" x="170.7152" y="12" size="0.6096" layer="25" rot="R270" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="168.5562" y="12" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
@@ -5354,16 +4821,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="160.5562" y="12" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="158.8842" y="11.992" size="0.6096" layer="27" font="vector" ratio="12" rot="R270" align="top-center"/>
 </element>
-<element name="U$81" library="output" package="PI2" value="" x="173.5562" y="17.3" smashed="yes" rot="R90"/>
-<element name="U$82" library="output" package="RP20400" value="" x="175.5562" y="12" smashed="yes" rot="R90"/>
-<element name="U$83" library="output" package="_RASPBERRY1" value="" x="173.5562" y="10.6" smashed="yes" rot="R90"/>
-<element name="U$84" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="177.5562" y="12" smashed="yes" rot="R90"/>
+<element name="U$53" library="output" package="RP20400" value="" x="175.0822" y="11.938" smashed="yes" rot="R270"/>
+<element name="U$54" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="176.7332" y="12.065" smashed="yes" rot="R270"/>
 <element name="R70" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="162.5562" y="15" smashed="yes" rot="MR90">
 <attribute name="NAME" x="163.1182" y="15" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="162.5562" y="15" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="161.9942" y="15" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="top-center"/>
 </element>
-<element name="U24" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="176.5562" y="10" smashed="yes" rot="MR270">
+<element name="U24" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="176.5562" y="10" smashed="yes" rot="MR270">
 <attribute name="NAME" x="174.6512" y="10" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="176.5562" y="10" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="179.0962" y="10" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
@@ -5383,10 +4848,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="181.3662" y="11.46" size="1.778" layer="28" font="vector" ratio="15" rot="MR0" display="off"/>
 <attribute name="VALUE" x="177.5562" y="13.238" size="0.6096" layer="28" font="vector" ratio="20" rot="MR0" align="top-center"/>
 </element>
-<element name="U$85" library="output" package="PI2" value="" x="164.7562" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$86" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="161.5562" y="7" smashed="yes" rot="MR90"/>
-<element name="U$87" library="output" package="RP20400" value="" x="163.2562" y="7.1" smashed="yes" rot="MR90"/>
-<element name="U$88" library="output" package="_RASPBERRY1" value="" x="166.4562" y="7.3" smashed="yes" rot="MR90"/>
+<element name="U$55" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="163.2712" y="6.731" smashed="yes" rot="MR90"/>
+<element name="U$56" library="output" package="RP20400" value="" x="161.4932" y="6.858" smashed="yes" rot="MR90"/>
 <element name="C129" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="18.998940625" y="59.85" smashed="yes" rot="R180">
 <attribute name="NAME" x="18.998940625" y="59.088" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="22.998940625" y="55.85" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
@@ -5411,13 +4874,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD34" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="0.998940625" y="48.85" smashed="yes" rot="R180"/>
 <element name="FD35" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="0.998940625" y="48.85" smashed="yes" rot="MR180"/>
 <element name="FD36" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="20.998940625" y="64.85" smashed="yes" rot="MR180"/>
-<element name="LOGO25" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="19.998940625" y="49.85" smashed="yes" rot="MR180"/>
+<element name="LOGO25" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="2.252940625" y="51.149" smashed="yes" rot="MR270"/>
 <element name="J9" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="10.998940625" y="69.85" smashed="yes" rot="R180"/>
 <element name="LOGO26" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="20.298940625" y="58.65" smashed="yes" rot="MR270"/>
-<element name="LOGO27" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="1.998940625" y="49.85" smashed="yes" rot="R270"/>
-<element name="U$89" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="19.998940625" y="62.85" smashed="yes" rot="R270"/>
-<element name="U$90" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="16.998940625" y="49.85" smashed="yes" rot="MR180"/>
-<element name="U$91" library="output" package="STAT0" value="" x="21.617940625" y="50.038" smashed="yes" rot="R180"/>
+<element name="LOGO27" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="2.313940625" y="50.419" smashed="yes" rot="R90"/>
+<element name="U$57" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="20.188940625" y="62.88" smashed="yes" rot="R90"/>
+<element name="U$58" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="2.252940625" y="53.895" smashed="yes" rot="MR270"/>
+<element name="U$59" library="output" package="STAT0" value="" x="21.617940625" y="50.165" smashed="yes" rot="R180"/>
 <element name="U25" library="RP2040" package="QFN-56" value="RP2040" x="10.998940625" y="57.85" smashed="yes" rot="R90">
 <attribute name="NAME" x="8.839940625" y="57.85" size="0.6096" layer="25" rot="R90" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="10.998940625" y="57.85" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
@@ -5522,16 +4985,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="18.998940625" y="57.85" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="20.670940625" y="57.858" size="0.6096" layer="27" font="vector" ratio="12" rot="R90" align="top-center"/>
 </element>
-<element name="U$92" library="output" package="PI2" value="" x="5.998940625" y="52.55" smashed="yes" rot="R270"/>
-<element name="U$93" library="output" package="RP20400" value="" x="3.998940625" y="57.85" smashed="yes" rot="R270"/>
-<element name="U$94" library="output" package="_RASPBERRY1" value="" x="5.998940625" y="59.25" smashed="yes" rot="R270"/>
-<element name="U$95" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="1.998940625" y="57.85" smashed="yes" rot="R270"/>
+<element name="U$60" library="output" package="RP20400" value="" x="4.472940625" y="57.912" smashed="yes" rot="R90"/>
+<element name="U$61" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="2.821940625" y="57.785" smashed="yes" rot="R90"/>
 <element name="R79" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="16.998940625" y="54.85" smashed="yes" rot="MR270">
 <attribute name="NAME" x="16.436940625" y="54.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="16.998940625" y="54.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="17.560940625" y="54.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="top-center"/>
 </element>
-<element name="U27" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="2.998940625" y="59.85" smashed="yes" rot="MR90">
+<element name="U27" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="2.998940625" y="59.85" smashed="yes" rot="MR90">
 <attribute name="NAME" x="4.903940625" y="59.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="2.998940625" y="59.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="0.458940625" y="59.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
@@ -5551,10 +5012,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="-1.811059375" y="58.39" size="1.778" layer="28" font="vector" ratio="15" rot="MR180" display="off"/>
 <attribute name="VALUE" x="1.998940625" y="56.612" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$96" library="output" package="PI2" value="" x="14.798940625" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$97" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="17.998940625" y="62.85" smashed="yes" rot="MR270"/>
-<element name="U$98" library="output" package="RP20400" value="" x="16.298940625" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$99" library="output" package="_RASPBERRY1" value="" x="13.098940625" y="62.55" smashed="yes" rot="MR270"/>
+<element name="U$62" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="16.283940625" y="63.119" smashed="yes" rot="MR270"/>
+<element name="U$63" library="output" package="RP20400" value="" x="18.061940625" y="62.992" smashed="yes" rot="MR270"/>
 <element name="C145" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="41.50841875" y="59.85" smashed="yes" rot="R180">
 <attribute name="NAME" x="41.50841875" y="59.088" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="45.50841875" y="55.85" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
@@ -5579,13 +5038,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD38" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="23.50841875" y="48.85" smashed="yes" rot="R180"/>
 <element name="FD39" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="23.50841875" y="48.85" smashed="yes" rot="MR180"/>
 <element name="FD40" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="43.50841875" y="64.85" smashed="yes" rot="MR180"/>
-<element name="LOGO28" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="42.50841875" y="49.85" smashed="yes" rot="MR180"/>
+<element name="LOGO28" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="24.76241875" y="51.149" smashed="yes" rot="MR270"/>
 <element name="J10" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="33.50841875" y="69.85" smashed="yes" rot="R180"/>
 <element name="LOGO29" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="42.80841875" y="58.65" smashed="yes" rot="MR270"/>
-<element name="LOGO30" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="24.50841875" y="49.85" smashed="yes" rot="R270"/>
-<element name="U$100" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="42.50841875" y="62.85" smashed="yes" rot="R270"/>
-<element name="U$101" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="39.50841875" y="49.85" smashed="yes" rot="MR180"/>
-<element name="U$102" library="output" package="STAT0" value="" x="44.12741875" y="50.038" smashed="yes" rot="R180"/>
+<element name="LOGO30" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="24.82341875" y="50.419" smashed="yes" rot="R90"/>
+<element name="U$64" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="42.69841875" y="62.88" smashed="yes" rot="R90"/>
+<element name="U$65" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="24.76241875" y="53.895" smashed="yes" rot="MR270"/>
+<element name="U$66" library="output" package="STAT0" value="" x="44.12741875" y="50.165" smashed="yes" rot="R180"/>
 <element name="U28" library="RP2040" package="QFN-56" value="RP2040" x="33.50841875" y="57.85" smashed="yes" rot="R90">
 <attribute name="NAME" x="31.34941875" y="57.85" size="0.6096" layer="25" rot="R90" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="33.50841875" y="57.85" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
@@ -5690,16 +5149,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="41.50841875" y="57.85" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="43.18041875" y="57.858" size="0.6096" layer="27" font="vector" ratio="12" rot="R90" align="top-center"/>
 </element>
-<element name="U$103" library="output" package="PI2" value="" x="28.50841875" y="52.55" smashed="yes" rot="R270"/>
-<element name="U$104" library="output" package="RP20400" value="" x="26.50841875" y="57.85" smashed="yes" rot="R270"/>
-<element name="U$105" library="output" package="_RASPBERRY1" value="" x="28.50841875" y="59.25" smashed="yes" rot="R270"/>
-<element name="U$106" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="24.50841875" y="57.85" smashed="yes" rot="R270"/>
+<element name="U$67" library="output" package="RP20400" value="" x="26.98241875" y="57.912" smashed="yes" rot="R90"/>
+<element name="U$68" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="25.33141875" y="57.785" smashed="yes" rot="R90"/>
 <element name="R88" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="39.50841875" y="54.85" smashed="yes" rot="MR270">
 <attribute name="NAME" x="38.94641875" y="54.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="39.50841875" y="54.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="40.07041875" y="54.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="top-center"/>
 </element>
-<element name="U30" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="25.50841875" y="59.85" smashed="yes" rot="MR90">
+<element name="U30" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="25.50841875" y="59.85" smashed="yes" rot="MR90">
 <attribute name="NAME" x="27.41341875" y="59.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="25.50841875" y="59.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="22.96841875" y="59.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
@@ -5719,10 +5176,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="20.69841875" y="58.39" size="1.778" layer="28" font="vector" ratio="15" rot="MR180" display="off"/>
 <attribute name="VALUE" x="24.50841875" y="56.612" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$107" library="output" package="PI2" value="" x="37.30841875" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$108" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="40.50841875" y="62.85" smashed="yes" rot="MR270"/>
-<element name="U$109" library="output" package="RP20400" value="" x="38.80841875" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$110" library="output" package="_RASPBERRY1" value="" x="35.60841875" y="62.55" smashed="yes" rot="MR270"/>
+<element name="U$69" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="38.79341875" y="63.119" smashed="yes" rot="MR270"/>
+<element name="U$70" library="output" package="RP20400" value="" x="40.57141875" y="62.992" smashed="yes" rot="MR270"/>
 <element name="C161" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="64.015359375" y="59.85" smashed="yes" rot="R180">
 <attribute name="NAME" x="64.015359375" y="59.088" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="68.015359375" y="55.85" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
@@ -5747,13 +5202,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD42" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="46.015359375" y="48.85" smashed="yes" rot="R180"/>
 <element name="FD43" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="46.015359375" y="48.85" smashed="yes" rot="MR180"/>
 <element name="FD44" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="66.015359375" y="64.85" smashed="yes" rot="MR180"/>
-<element name="LOGO31" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="65.015359375" y="49.85" smashed="yes" rot="MR180"/>
+<element name="LOGO31" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="47.269359375" y="51.149" smashed="yes" rot="MR270"/>
 <element name="J11" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="56.015359375" y="69.85" smashed="yes" rot="R180"/>
 <element name="LOGO32" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="65.315359375" y="58.65" smashed="yes" rot="MR270"/>
-<element name="LOGO33" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="47.015359375" y="49.85" smashed="yes" rot="R270"/>
-<element name="U$111" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="65.015359375" y="62.85" smashed="yes" rot="R270"/>
-<element name="U$112" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="62.015359375" y="49.85" smashed="yes" rot="MR180"/>
-<element name="U$113" library="output" package="STAT0" value="" x="66.634359375" y="50.038" smashed="yes" rot="R180"/>
+<element name="LOGO33" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="47.330359375" y="50.419" smashed="yes" rot="R90"/>
+<element name="U$71" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="65.205359375" y="62.88" smashed="yes" rot="R90"/>
+<element name="U$72" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="47.269359375" y="53.895" smashed="yes" rot="MR270"/>
+<element name="U$73" library="output" package="STAT0" value="" x="66.634359375" y="50.165" smashed="yes" rot="R180"/>
 <element name="U31" library="RP2040" package="QFN-56" value="RP2040" x="56.015359375" y="57.85" smashed="yes" rot="R90">
 <attribute name="NAME" x="53.856359375" y="57.85" size="0.6096" layer="25" rot="R90" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="56.015359375" y="57.85" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
@@ -5858,16 +5313,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="64.015359375" y="57.85" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="65.687359375" y="57.858" size="0.6096" layer="27" font="vector" ratio="12" rot="R90" align="top-center"/>
 </element>
-<element name="U$114" library="output" package="PI2" value="" x="51.015359375" y="52.55" smashed="yes" rot="R270"/>
-<element name="U$115" library="output" package="RP20400" value="" x="49.015359375" y="57.85" smashed="yes" rot="R270"/>
-<element name="U$116" library="output" package="_RASPBERRY1" value="" x="51.015359375" y="59.25" smashed="yes" rot="R270"/>
-<element name="U$117" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="47.015359375" y="57.85" smashed="yes" rot="R270"/>
+<element name="U$74" library="output" package="RP20400" value="" x="49.489359375" y="57.912" smashed="yes" rot="R90"/>
+<element name="U$75" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="47.838359375" y="57.785" smashed="yes" rot="R90"/>
 <element name="R97" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="62.015359375" y="54.85" smashed="yes" rot="MR270">
 <attribute name="NAME" x="61.453359375" y="54.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="62.015359375" y="54.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="62.577359375" y="54.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="top-center"/>
 </element>
-<element name="U33" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="48.015359375" y="59.85" smashed="yes" rot="MR90">
+<element name="U33" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="48.015359375" y="59.85" smashed="yes" rot="MR90">
 <attribute name="NAME" x="49.920359375" y="59.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="48.015359375" y="59.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="45.475359375" y="59.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
@@ -5887,10 +5340,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="43.205359375" y="58.39" size="1.778" layer="28" font="vector" ratio="15" rot="MR180" display="off"/>
 <attribute name="VALUE" x="47.015359375" y="56.612" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$118" library="output" package="PI2" value="" x="59.815359375" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$119" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="63.015359375" y="62.85" smashed="yes" rot="MR270"/>
-<element name="U$120" library="output" package="RP20400" value="" x="61.315359375" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$121" library="output" package="_RASPBERRY1" value="" x="58.115359375" y="62.55" smashed="yes" rot="MR270"/>
+<element name="U$76" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="61.300359375" y="63.119" smashed="yes" rot="MR270"/>
+<element name="U$77" library="output" package="RP20400" value="" x="63.078359375" y="62.992" smashed="yes" rot="MR270"/>
 <element name="C177" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="86.524840625" y="59.85" smashed="yes" rot="R180">
 <attribute name="NAME" x="86.524840625" y="59.088" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="90.524840625" y="55.85" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
@@ -5915,13 +5366,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD46" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="68.524840625" y="48.85" smashed="yes" rot="R180"/>
 <element name="FD47" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="68.524840625" y="48.85" smashed="yes" rot="MR180"/>
 <element name="FD48" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="88.524840625" y="64.85" smashed="yes" rot="MR180"/>
-<element name="LOGO34" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="87.524840625" y="49.85" smashed="yes" rot="MR180"/>
+<element name="LOGO34" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="69.778840625" y="51.149" smashed="yes" rot="MR270"/>
 <element name="J12" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="78.524840625" y="69.85" smashed="yes" rot="R180"/>
 <element name="LOGO35" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="87.824840625" y="58.65" smashed="yes" rot="MR270"/>
-<element name="LOGO36" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="69.524840625" y="49.85" smashed="yes" rot="R270"/>
-<element name="U$122" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="87.524840625" y="62.85" smashed="yes" rot="R270"/>
-<element name="U$123" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="84.524840625" y="49.85" smashed="yes" rot="MR180"/>
-<element name="U$124" library="output" package="STAT0" value="" x="89.143840625" y="50.038" smashed="yes" rot="R180"/>
+<element name="LOGO36" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="69.839840625" y="50.419" smashed="yes" rot="R90"/>
+<element name="U$78" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="87.714840625" y="62.88" smashed="yes" rot="R90"/>
+<element name="U$79" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="69.778840625" y="53.895" smashed="yes" rot="MR270"/>
+<element name="U$80" library="output" package="STAT0" value="" x="89.143840625" y="50.165" smashed="yes" rot="R180"/>
 <element name="U34" library="RP2040" package="QFN-56" value="RP2040" x="78.524840625" y="57.85" smashed="yes" rot="R90">
 <attribute name="NAME" x="76.365840625" y="57.85" size="0.6096" layer="25" rot="R90" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="78.524840625" y="57.85" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
@@ -6026,16 +5477,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="86.524840625" y="57.85" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="88.196840625" y="57.858" size="0.6096" layer="27" font="vector" ratio="12" rot="R90" align="top-center"/>
 </element>
-<element name="U$125" library="output" package="PI2" value="" x="73.524840625" y="52.55" smashed="yes" rot="R270"/>
-<element name="U$126" library="output" package="RP20400" value="" x="71.524840625" y="57.85" smashed="yes" rot="R270"/>
-<element name="U$127" library="output" package="_RASPBERRY1" value="" x="73.524840625" y="59.25" smashed="yes" rot="R270"/>
-<element name="U$128" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="69.524840625" y="57.85" smashed="yes" rot="R270"/>
+<element name="U$81" library="output" package="RP20400" value="" x="71.998840625" y="57.912" smashed="yes" rot="R90"/>
+<element name="U$82" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="70.347840625" y="57.785" smashed="yes" rot="R90"/>
 <element name="R106" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="84.524840625" y="54.85" smashed="yes" rot="MR270">
 <attribute name="NAME" x="83.962840625" y="54.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="84.524840625" y="54.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="85.086840625" y="54.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="top-center"/>
 </element>
-<element name="U36" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="70.524840625" y="59.85" smashed="yes" rot="MR90">
+<element name="U36" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="70.524840625" y="59.85" smashed="yes" rot="MR90">
 <attribute name="NAME" x="72.429840625" y="59.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="70.524840625" y="59.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="67.984840625" y="59.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
@@ -6055,10 +5504,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="65.714840625" y="58.39" size="1.778" layer="28" font="vector" ratio="15" rot="MR180" display="off"/>
 <attribute name="VALUE" x="69.524840625" y="56.612" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$129" library="output" package="PI2" value="" x="82.324840625" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$130" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="85.524840625" y="62.85" smashed="yes" rot="MR270"/>
-<element name="U$131" library="output" package="RP20400" value="" x="83.824840625" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$132" library="output" package="_RASPBERRY1" value="" x="80.624840625" y="62.55" smashed="yes" rot="MR270"/>
+<element name="U$83" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="83.809840625" y="63.119" smashed="yes" rot="MR270"/>
+<element name="U$84" library="output" package="RP20400" value="" x="85.587840625" y="62.992" smashed="yes" rot="MR270"/>
 <element name="C193" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="109.03178125" y="59.85" smashed="yes" rot="R180">
 <attribute name="NAME" x="109.03178125" y="59.088" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="113.03178125" y="55.85" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
@@ -6083,13 +5530,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD50" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="91.03178125" y="48.85" smashed="yes" rot="R180"/>
 <element name="FD51" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="91.03178125" y="48.85" smashed="yes" rot="MR180"/>
 <element name="FD52" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="111.03178125" y="64.85" smashed="yes" rot="MR180"/>
-<element name="LOGO37" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="110.03178125" y="49.85" smashed="yes" rot="MR180"/>
+<element name="LOGO37" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="92.28578125" y="51.149" smashed="yes" rot="MR270"/>
 <element name="J13" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="101.03178125" y="69.85" smashed="yes" rot="R180"/>
 <element name="LOGO38" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="110.33178125" y="58.65" smashed="yes" rot="MR270"/>
-<element name="LOGO39" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="92.03178125" y="49.85" smashed="yes" rot="R270"/>
-<element name="U$133" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="110.03178125" y="62.85" smashed="yes" rot="R270"/>
-<element name="U$134" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="107.03178125" y="49.85" smashed="yes" rot="MR180"/>
-<element name="U$135" library="output" package="STAT0" value="" x="111.65078125" y="50.038" smashed="yes" rot="R180"/>
+<element name="LOGO39" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="92.34678125" y="50.419" smashed="yes" rot="R90"/>
+<element name="U$85" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="110.22178125" y="62.88" smashed="yes" rot="R90"/>
+<element name="U$86" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="92.28578125" y="53.895" smashed="yes" rot="MR270"/>
+<element name="U$87" library="output" package="STAT0" value="" x="111.65078125" y="50.165" smashed="yes" rot="R180"/>
 <element name="U37" library="RP2040" package="QFN-56" value="RP2040" x="101.03178125" y="57.85" smashed="yes" rot="R90">
 <attribute name="NAME" x="98.87278125" y="57.85" size="0.6096" layer="25" rot="R90" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="101.03178125" y="57.85" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
@@ -6194,16 +5641,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="109.03178125" y="57.85" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="110.70378125" y="57.858" size="0.6096" layer="27" font="vector" ratio="12" rot="R90" align="top-center"/>
 </element>
-<element name="U$136" library="output" package="PI2" value="" x="96.03178125" y="52.55" smashed="yes" rot="R270"/>
-<element name="U$137" library="output" package="RP20400" value="" x="94.03178125" y="57.85" smashed="yes" rot="R270"/>
-<element name="U$138" library="output" package="_RASPBERRY1" value="" x="96.03178125" y="59.25" smashed="yes" rot="R270"/>
-<element name="U$139" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="92.03178125" y="57.85" smashed="yes" rot="R270"/>
+<element name="U$88" library="output" package="RP20400" value="" x="94.50578125" y="57.912" smashed="yes" rot="R90"/>
+<element name="U$89" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="92.85478125" y="57.785" smashed="yes" rot="R90"/>
 <element name="R115" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="107.03178125" y="54.85" smashed="yes" rot="MR270">
 <attribute name="NAME" x="106.46978125" y="54.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="107.03178125" y="54.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="107.59378125" y="54.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="top-center"/>
 </element>
-<element name="U39" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="93.03178125" y="59.85" smashed="yes" rot="MR90">
+<element name="U39" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="93.03178125" y="59.85" smashed="yes" rot="MR90">
 <attribute name="NAME" x="94.93678125" y="59.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="93.03178125" y="59.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="90.49178125" y="59.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
@@ -6223,10 +5668,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="88.22178125" y="58.39" size="1.778" layer="28" font="vector" ratio="15" rot="MR180" display="off"/>
 <attribute name="VALUE" x="92.03178125" y="56.612" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$140" library="output" package="PI2" value="" x="104.83178125" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$141" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="108.03178125" y="62.85" smashed="yes" rot="MR270"/>
-<element name="U$142" library="output" package="RP20400" value="" x="106.33178125" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$143" library="output" package="_RASPBERRY1" value="" x="103.13178125" y="62.55" smashed="yes" rot="MR270"/>
+<element name="U$90" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="106.31678125" y="63.119" smashed="yes" rot="MR270"/>
+<element name="U$91" library="output" package="RP20400" value="" x="108.09478125" y="62.992" smashed="yes" rot="MR270"/>
 <element name="C209" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="131.541259375" y="59.85" smashed="yes" rot="R180">
 <attribute name="NAME" x="131.541259375" y="59.088" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="135.541259375" y="55.85" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
@@ -6251,13 +5694,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD54" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="113.541259375" y="48.85" smashed="yes" rot="R180"/>
 <element name="FD55" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="113.541259375" y="48.85" smashed="yes" rot="MR180"/>
 <element name="FD56" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="133.541259375" y="64.85" smashed="yes" rot="MR180"/>
-<element name="LOGO40" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="132.541259375" y="49.85" smashed="yes" rot="MR180"/>
+<element name="LOGO40" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="114.795259375" y="51.149" smashed="yes" rot="MR270"/>
 <element name="J14" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="123.541259375" y="69.85" smashed="yes" rot="R180"/>
 <element name="LOGO41" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="132.841259375" y="58.65" smashed="yes" rot="MR270"/>
-<element name="LOGO42" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="114.541259375" y="49.85" smashed="yes" rot="R270"/>
-<element name="U$144" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="132.541259375" y="62.85" smashed="yes" rot="R270"/>
-<element name="U$145" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="129.541259375" y="49.85" smashed="yes" rot="MR180"/>
-<element name="U$146" library="output" package="STAT0" value="" x="134.160259375" y="50.038" smashed="yes" rot="R180"/>
+<element name="LOGO42" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="114.856259375" y="50.419" smashed="yes" rot="R90"/>
+<element name="U$92" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="132.731259375" y="62.88" smashed="yes" rot="R90"/>
+<element name="U$93" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="114.795259375" y="53.895" smashed="yes" rot="MR270"/>
+<element name="U$94" library="output" package="STAT0" value="" x="134.160259375" y="50.165" smashed="yes" rot="R180"/>
 <element name="U40" library="RP2040" package="QFN-56" value="RP2040" x="123.541259375" y="57.85" smashed="yes" rot="R90">
 <attribute name="NAME" x="121.382259375" y="57.85" size="0.6096" layer="25" rot="R90" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="123.541259375" y="57.85" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
@@ -6362,16 +5805,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="131.541259375" y="57.85" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="133.213259375" y="57.858" size="0.6096" layer="27" font="vector" ratio="12" rot="R90" align="top-center"/>
 </element>
-<element name="U$147" library="output" package="PI2" value="" x="118.541259375" y="52.55" smashed="yes" rot="R270"/>
-<element name="U$148" library="output" package="RP20400" value="" x="116.541259375" y="57.85" smashed="yes" rot="R270"/>
-<element name="U$149" library="output" package="_RASPBERRY1" value="" x="118.541259375" y="59.25" smashed="yes" rot="R270"/>
-<element name="U$150" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="114.541259375" y="57.85" smashed="yes" rot="R270"/>
+<element name="U$95" library="output" package="RP20400" value="" x="117.015259375" y="57.912" smashed="yes" rot="R90"/>
+<element name="U$96" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="115.364259375" y="57.785" smashed="yes" rot="R90"/>
 <element name="R124" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="129.541259375" y="54.85" smashed="yes" rot="MR270">
 <attribute name="NAME" x="128.979259375" y="54.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="129.541259375" y="54.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="130.103259375" y="54.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="top-center"/>
 </element>
-<element name="U42" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="115.541259375" y="59.85" smashed="yes" rot="MR90">
+<element name="U42" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="115.541259375" y="59.85" smashed="yes" rot="MR90">
 <attribute name="NAME" x="117.446259375" y="59.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="115.541259375" y="59.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="113.001259375" y="59.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
@@ -6391,10 +5832,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="110.731259375" y="58.39" size="1.778" layer="28" font="vector" ratio="15" rot="MR180" display="off"/>
 <attribute name="VALUE" x="114.541259375" y="56.612" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$151" library="output" package="PI2" value="" x="127.341259375" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$152" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="130.541259375" y="62.85" smashed="yes" rot="MR270"/>
-<element name="U$153" library="output" package="RP20400" value="" x="128.841259375" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$154" library="output" package="_RASPBERRY1" value="" x="125.641259375" y="62.55" smashed="yes" rot="MR270"/>
+<element name="U$97" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="128.826259375" y="63.119" smashed="yes" rot="MR270"/>
+<element name="U$98" library="output" package="RP20400" value="" x="130.604259375" y="62.992" smashed="yes" rot="MR270"/>
 <element name="C225" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="154.0482" y="59.85" smashed="yes" rot="R180">
 <attribute name="NAME" x="154.0482" y="59.088" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="158.0482" y="55.85" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
@@ -6419,13 +5858,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD58" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="136.0482" y="48.85" smashed="yes" rot="R180"/>
 <element name="FD59" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="136.0482" y="48.85" smashed="yes" rot="MR180"/>
 <element name="FD60" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="156.0482" y="64.85" smashed="yes" rot="MR180"/>
-<element name="LOGO43" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="155.0482" y="49.85" smashed="yes" rot="MR180"/>
+<element name="LOGO43" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="137.3022" y="51.149" smashed="yes" rot="MR270"/>
 <element name="J15" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="146.0482" y="69.85" smashed="yes" rot="R180"/>
 <element name="LOGO44" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="155.3482" y="58.65" smashed="yes" rot="MR270"/>
-<element name="LOGO45" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="137.0482" y="49.85" smashed="yes" rot="R270"/>
-<element name="U$155" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="155.0482" y="62.85" smashed="yes" rot="R270"/>
-<element name="U$156" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="152.0482" y="49.85" smashed="yes" rot="MR180"/>
-<element name="U$157" library="output" package="STAT0" value="" x="156.6672" y="50.038" smashed="yes" rot="R180"/>
+<element name="LOGO45" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="137.3632" y="50.419" smashed="yes" rot="R90"/>
+<element name="U$99" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="155.2382" y="62.88" smashed="yes" rot="R90"/>
+<element name="U$100" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="137.3022" y="53.895" smashed="yes" rot="MR270"/>
+<element name="U$101" library="output" package="STAT0" value="" x="156.6672" y="50.165" smashed="yes" rot="R180"/>
 <element name="U43" library="RP2040" package="QFN-56" value="RP2040" x="146.0482" y="57.85" smashed="yes" rot="R90">
 <attribute name="NAME" x="143.8892" y="57.85" size="0.6096" layer="25" rot="R90" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="146.0482" y="57.85" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
@@ -6530,16 +5969,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="154.0482" y="57.85" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="155.7202" y="57.858" size="0.6096" layer="27" font="vector" ratio="12" rot="R90" align="top-center"/>
 </element>
-<element name="U$158" library="output" package="PI2" value="" x="141.0482" y="52.55" smashed="yes" rot="R270"/>
-<element name="U$159" library="output" package="RP20400" value="" x="139.0482" y="57.85" smashed="yes" rot="R270"/>
-<element name="U$160" library="output" package="_RASPBERRY1" value="" x="141.0482" y="59.25" smashed="yes" rot="R270"/>
-<element name="U$161" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="137.0482" y="57.85" smashed="yes" rot="R270"/>
+<element name="U$102" library="output" package="RP20400" value="" x="139.5222" y="57.912" smashed="yes" rot="R90"/>
+<element name="U$103" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="137.8712" y="57.785" smashed="yes" rot="R90"/>
 <element name="R133" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="152.0482" y="54.85" smashed="yes" rot="MR270">
 <attribute name="NAME" x="151.4862" y="54.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="152.0482" y="54.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="152.6102" y="54.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="top-center"/>
 </element>
-<element name="U45" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="138.0482" y="59.85" smashed="yes" rot="MR90">
+<element name="U45" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="138.0482" y="59.85" smashed="yes" rot="MR90">
 <attribute name="NAME" x="139.9532" y="59.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="138.0482" y="59.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="135.5082" y="59.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
@@ -6559,10 +5996,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="133.2382" y="58.39" size="1.778" layer="28" font="vector" ratio="15" rot="MR180" display="off"/>
 <attribute name="VALUE" x="137.0482" y="56.612" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$162" library="output" package="PI2" value="" x="149.8482" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$163" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="153.0482" y="62.85" smashed="yes" rot="MR270"/>
-<element name="U$164" library="output" package="RP20400" value="" x="151.3482" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$165" library="output" package="_RASPBERRY1" value="" x="148.1482" y="62.55" smashed="yes" rot="MR270"/>
+<element name="U$104" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="151.3332" y="63.119" smashed="yes" rot="MR270"/>
+<element name="U$105" library="output" package="RP20400" value="" x="153.1112" y="62.992" smashed="yes" rot="MR270"/>
 <element name="C241" library="SparkFun-Capacitors" package="0402-TIGHT" value="15pF" x="176.555140625" y="59.85" smashed="yes" rot="R180">
 <attribute name="NAME" x="176.555140625" y="59.088" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13063" x="180.555140625" y="55.85" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
@@ -6587,13 +6022,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="FD62" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="158.555140625" y="48.85" smashed="yes" rot="R180"/>
 <element name="FD63" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="158.555140625" y="48.85" smashed="yes" rot="MR180"/>
 <element name="FD64" library="SparkFun-Aesthetics" package="FIDUCIAL-MICRO" value="FIDUCIALUFIDUCIAL" x="178.555140625" y="64.85" smashed="yes" rot="MR180"/>
-<element name="LOGO46" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="177.555140625" y="49.85" smashed="yes" rot="MR180"/>
+<element name="LOGO46" library="SparkFun-Aesthetics" package="OSHW-LOGO-MINI" value="OSHW-LOGOMINI" x="159.809140625" y="51.149" smashed="yes" rot="MR270"/>
 <element name="J16" library="SparkFun-MicroMod" package="M.2-CARD-E-22" value="MICROMOD-2222" x="168.555140625" y="69.85" smashed="yes" rot="R180"/>
 <element name="LOGO47" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="177.855140625" y="58.65" smashed="yes" rot="MR270"/>
-<element name="LOGO48" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="159.555140625" y="49.85" smashed="yes" rot="R270"/>
-<element name="U$166" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="177.555140625" y="62.85" smashed="yes" rot="R270"/>
-<element name="U$167" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="174.555140625" y="49.85" smashed="yes" rot="MR180"/>
-<element name="U$168" library="output" package="STAT0" value="" x="179.174140625" y="50.038" smashed="yes" rot="R180"/>
+<element name="LOGO48" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="SFE_LOGO_FLAME.1_INCH" x="159.870140625" y="50.419" smashed="yes" rot="R90"/>
+<element name="U$106" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="177.745140625" y="62.88" smashed="yes" rot="R90"/>
+<element name="U$107" library="SparkFun-MicroMod" package="MICROMOD_MI_LOGO_.35" value="" x="159.809140625" y="53.895" smashed="yes" rot="MR270"/>
+<element name="U$108" library="output" package="STAT0" value="" x="179.174140625" y="50.165" smashed="yes" rot="R180"/>
 <element name="U46" library="RP2040" package="QFN-56" value="RP2040" x="168.555140625" y="57.85" smashed="yes" rot="R90">
 <attribute name="NAME" x="166.396140625" y="57.85" size="0.6096" layer="25" rot="R90" align="center"/>
 <attribute name="PROD_ID" value="IC-15502" x="168.555140625" y="57.85" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
@@ -6698,16 +6133,14 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="XTAL-15540" x="176.555140625" y="57.85" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" x="178.227140625" y="57.858" size="0.6096" layer="27" font="vector" ratio="12" rot="R90" align="top-center"/>
 </element>
-<element name="U$169" library="output" package="PI2" value="" x="163.555140625" y="52.55" smashed="yes" rot="R270"/>
-<element name="U$170" library="output" package="RP20400" value="" x="161.555140625" y="57.85" smashed="yes" rot="R270"/>
-<element name="U$171" library="output" package="_RASPBERRY1" value="" x="163.555140625" y="59.25" smashed="yes" rot="R270"/>
-<element name="U$172" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="159.555140625" y="57.85" smashed="yes" rot="R270"/>
+<element name="U$109" library="output" package="RP20400" value="" x="162.029140625" y="57.912" smashed="yes" rot="R90"/>
+<element name="U$110" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="160.378140625" y="57.785" smashed="yes" rot="R90"/>
 <element name="R142" library="SparkFun-Resistors" package="0402-TIGHT" value="10k" x="174.555140625" y="54.85" smashed="yes" rot="MR270">
 <attribute name="NAME" x="173.993140625" y="54.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR270" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-14241" x="174.555140625" y="54.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR270" display="off"/>
 <attribute name="VALUE" x="175.117140625" y="54.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR270" align="top-center"/>
 </element>
-<element name="U48" library="RP2040" package="MSOP10" value="FSUSB30MUX_MSOP10" x="160.555140625" y="59.85" smashed="yes" rot="MR90">
+<element name="U48" library="SparkFun-IC-Special-Function" package="MSOP10" value="FSUSB30MUX_MSOP10" x="160.555140625" y="59.85" smashed="yes" rot="MR90">
 <attribute name="NAME" x="162.460140625" y="59.85" size="0.6096" layer="26" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
 <attribute name="PROD_ID" value="IC-15569" x="160.555140625" y="59.85" size="1.778" layer="28" font="vector" ratio="15" rot="MR90" display="off"/>
 <attribute name="VALUE" x="158.015140625" y="59.85" size="0.6096" layer="28" font="vector" ratio="20" rot="MR90" align="bottom-center"/>
@@ -6727,10 +6160,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="RES-14342" x="155.745140625" y="58.39" size="1.778" layer="28" font="vector" ratio="15" rot="MR180" display="off"/>
 <attribute name="VALUE" x="159.555140625" y="56.612" size="0.6096" layer="28" font="vector" ratio="20" rot="MR180" align="top-center"/>
 </element>
-<element name="U$173" library="output" package="PI2" value="" x="172.355140625" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$174" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="175.555140625" y="62.85" smashed="yes" rot="MR270"/>
-<element name="U$175" library="output" package="RP20400" value="" x="173.855140625" y="62.75" smashed="yes" rot="MR270"/>
-<element name="U$176" library="output" package="_RASPBERRY1" value="" x="170.655140625" y="62.55" smashed="yes" rot="MR270"/>
+<element name="U$111" library="SparkFun-MicroMod" package="MICROMOD_LOGO_.3" value="" x="173.840140625" y="63.119" smashed="yes" rot="MR270"/>
+<element name="U$112" library="output" package="RP20400" value="" x="175.618140625" y="62.992" smashed="yes" rot="MR270"/>
 <element name="E$1" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="-2.62381875" y="63.5" smashed="yes"/>
 <element name="E$2" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="-2.62381875" y="63.5" smashed="yes" rot="MR0"/>
 <element name="E$3" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="182.1815" y="63.5" smashed="yes"/>
@@ -7352,14 +6783,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="4.8" y1="3" x2="4.8" y2="3.5745625" width="0.127" layer="15"/>
 <wire x1="4.8" y1="3.5745625" x2="4.5475" y2="3.8270625" width="0.127" layer="15"/>
 <wire x1="5.1413" y1="10.841375" x2="5.1" y2="10.882675" width="0.127" layer="15"/>
-<wire x1="5.1413" y1="7.2413" x2="5.1413" y2="7.4" width="0.127" layer="15"/>
 <via x="7.6" y="21" extent="1-16" drill="0.2"/>
-<wire x1="5.1413" y1="7.4" x2="5.1413" y2="10.841375" width="0.127" layer="15"/>
+<wire x1="5.1413" y1="7.0905375" x2="5.1413" y2="10.841375" width="0.127" layer="15"/>
 <wire x1="5.1" y1="15.817325" x2="5.3413" y2="16.058625" width="0.127" layer="15"/>
 <wire x1="5.3413" y1="18.7413" x2="7.6" y2="21" width="0.127" layer="15"/>
 <wire x1="5.3413" y1="16.058625" x2="5.3413" y2="18.7413" width="0.127" layer="15"/>
 <wire x1="5.1" y1="10.882675" x2="5.1" y2="15.817325" width="0.127" layer="15"/>
-<wire x1="5.1413" y1="7.0905375" x2="5.1413" y2="7.2413" width="0.127" layer="15"/>
 <wire x1="4.7237" y1="6.6729375" x2="5.1413" y2="7.0905375" width="0.127" layer="15"/>
 <wire x1="4.7237" y1="4.3491375" x2="4.7237" y2="6.6729375" width="0.127" layer="15"/>
 <wire x1="4.5475" y1="4.1729375" x2="4.7237" y2="4.3491375" width="0.127" layer="15"/>
@@ -8730,14 +8159,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="27.306940625" y1="3" x2="27.306940625" y2="3.5745625" width="0.127" layer="15"/>
 <wire x1="27.306940625" y1="3.5745625" x2="27.054440625" y2="3.8270625" width="0.127" layer="15"/>
 <wire x1="27.648240625" y1="10.841375" x2="27.606940625" y2="10.882675" width="0.127" layer="15"/>
-<wire x1="27.648240625" y1="7.2413" x2="27.648240625" y2="7.4" width="0.127" layer="15"/>
 <via x="30.106940625" y="21" extent="1-16" drill="0.2"/>
-<wire x1="27.648240625" y1="7.4" x2="27.648240625" y2="10.841375" width="0.127" layer="15"/>
+<wire x1="27.648240625" y1="7.0905375" x2="27.648240625" y2="10.841375" width="0.127" layer="15"/>
 <wire x1="27.606940625" y1="15.817325" x2="27.848240625" y2="16.058625" width="0.127" layer="15"/>
 <wire x1="27.848240625" y1="18.7413" x2="30.106940625" y2="21" width="0.127" layer="15"/>
 <wire x1="27.848240625" y1="16.058625" x2="27.848240625" y2="18.7413" width="0.127" layer="15"/>
 <wire x1="27.606940625" y1="10.882675" x2="27.606940625" y2="15.817325" width="0.127" layer="15"/>
-<wire x1="27.648240625" y1="7.0905375" x2="27.648240625" y2="7.2413" width="0.127" layer="15"/>
 <wire x1="27.230640625" y1="6.6729375" x2="27.648240625" y2="7.0905375" width="0.127" layer="15"/>
 <wire x1="27.230640625" y1="4.3491375" x2="27.230640625" y2="6.6729375" width="0.127" layer="15"/>
 <wire x1="27.054440625" y1="4.1729375" x2="27.230640625" y2="4.3491375" width="0.127" layer="15"/>
@@ -10108,14 +9535,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="49.81641875" y1="3" x2="49.81641875" y2="3.5745625" width="0.127" layer="15"/>
 <wire x1="49.81641875" y1="3.5745625" x2="49.56391875" y2="3.8270625" width="0.127" layer="15"/>
 <wire x1="50.15771875" y1="10.841375" x2="50.11641875" y2="10.882675" width="0.127" layer="15"/>
-<wire x1="50.15771875" y1="7.2413" x2="50.15771875" y2="7.4" width="0.127" layer="15"/>
 <via x="52.61641875" y="21" extent="1-16" drill="0.2"/>
-<wire x1="50.15771875" y1="7.4" x2="50.15771875" y2="10.841375" width="0.127" layer="15"/>
+<wire x1="50.15771875" y1="7.0905375" x2="50.15771875" y2="10.841375" width="0.127" layer="15"/>
 <wire x1="50.11641875" y1="15.817325" x2="50.35771875" y2="16.058625" width="0.127" layer="15"/>
 <wire x1="50.35771875" y1="18.7413" x2="52.61641875" y2="21" width="0.127" layer="15"/>
 <wire x1="50.35771875" y1="16.058625" x2="50.35771875" y2="18.7413" width="0.127" layer="15"/>
 <wire x1="50.11641875" y1="10.882675" x2="50.11641875" y2="15.817325" width="0.127" layer="15"/>
-<wire x1="50.15771875" y1="7.0905375" x2="50.15771875" y2="7.2413" width="0.127" layer="15"/>
 <wire x1="49.74011875" y1="6.6729375" x2="50.15771875" y2="7.0905375" width="0.127" layer="15"/>
 <wire x1="49.74011875" y1="4.3491375" x2="49.74011875" y2="6.6729375" width="0.127" layer="15"/>
 <wire x1="49.56391875" y1="4.1729375" x2="49.74011875" y2="4.3491375" width="0.127" layer="15"/>
@@ -11486,14 +10911,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="72.323359375" y1="3" x2="72.323359375" y2="3.5745625" width="0.127" layer="15"/>
 <wire x1="72.323359375" y1="3.5745625" x2="72.070859375" y2="3.8270625" width="0.127" layer="15"/>
 <wire x1="72.664659375" y1="10.841375" x2="72.623359375" y2="10.882675" width="0.127" layer="15"/>
-<wire x1="72.664659375" y1="7.2413" x2="72.664659375" y2="7.4" width="0.127" layer="15"/>
 <via x="75.123359375" y="21" extent="1-16" drill="0.2"/>
-<wire x1="72.664659375" y1="7.4" x2="72.664659375" y2="10.841375" width="0.127" layer="15"/>
+<wire x1="72.664659375" y1="7.0905375" x2="72.664659375" y2="10.841375" width="0.127" layer="15"/>
 <wire x1="72.623359375" y1="15.817325" x2="72.864659375" y2="16.058625" width="0.127" layer="15"/>
 <wire x1="72.864659375" y1="18.7413" x2="75.123359375" y2="21" width="0.127" layer="15"/>
 <wire x1="72.864659375" y1="16.058625" x2="72.864659375" y2="18.7413" width="0.127" layer="15"/>
 <wire x1="72.623359375" y1="10.882675" x2="72.623359375" y2="15.817325" width="0.127" layer="15"/>
-<wire x1="72.664659375" y1="7.0905375" x2="72.664659375" y2="7.2413" width="0.127" layer="15"/>
 <wire x1="72.247059375" y1="6.6729375" x2="72.664659375" y2="7.0905375" width="0.127" layer="15"/>
 <wire x1="72.247059375" y1="4.3491375" x2="72.247059375" y2="6.6729375" width="0.127" layer="15"/>
 <wire x1="72.070859375" y1="4.1729375" x2="72.247059375" y2="4.3491375" width="0.127" layer="15"/>
@@ -12864,14 +12287,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="94.832840625" y1="3" x2="94.832840625" y2="3.5745625" width="0.127" layer="15"/>
 <wire x1="94.832840625" y1="3.5745625" x2="94.580340625" y2="3.8270625" width="0.127" layer="15"/>
 <wire x1="95.174140625" y1="10.841375" x2="95.132840625" y2="10.882675" width="0.127" layer="15"/>
-<wire x1="95.174140625" y1="7.2413" x2="95.174140625" y2="7.4" width="0.127" layer="15"/>
 <via x="97.632840625" y="21" extent="1-16" drill="0.2"/>
-<wire x1="95.174140625" y1="7.4" x2="95.174140625" y2="10.841375" width="0.127" layer="15"/>
+<wire x1="95.174140625" y1="7.0905375" x2="95.174140625" y2="10.841375" width="0.127" layer="15"/>
 <wire x1="95.132840625" y1="15.817325" x2="95.374140625" y2="16.058625" width="0.127" layer="15"/>
 <wire x1="95.374140625" y1="18.7413" x2="97.632840625" y2="21" width="0.127" layer="15"/>
 <wire x1="95.374140625" y1="16.058625" x2="95.374140625" y2="18.7413" width="0.127" layer="15"/>
 <wire x1="95.132840625" y1="10.882675" x2="95.132840625" y2="15.817325" width="0.127" layer="15"/>
-<wire x1="95.174140625" y1="7.0905375" x2="95.174140625" y2="7.2413" width="0.127" layer="15"/>
 <wire x1="94.756540625" y1="6.6729375" x2="95.174140625" y2="7.0905375" width="0.127" layer="15"/>
 <wire x1="94.756540625" y1="4.3491375" x2="94.756540625" y2="6.6729375" width="0.127" layer="15"/>
 <wire x1="94.580340625" y1="4.1729375" x2="94.756540625" y2="4.3491375" width="0.127" layer="15"/>
@@ -14242,14 +13663,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="117.33978125" y1="3" x2="117.33978125" y2="3.5745625" width="0.127" layer="15"/>
 <wire x1="117.33978125" y1="3.5745625" x2="117.08728125" y2="3.8270625" width="0.127" layer="15"/>
 <wire x1="117.68108125" y1="10.841375" x2="117.63978125" y2="10.882675" width="0.127" layer="15"/>
-<wire x1="117.68108125" y1="7.2413" x2="117.68108125" y2="7.4" width="0.127" layer="15"/>
 <via x="120.13978125" y="21" extent="1-16" drill="0.2"/>
-<wire x1="117.68108125" y1="7.4" x2="117.68108125" y2="10.841375" width="0.127" layer="15"/>
+<wire x1="117.68108125" y1="7.0905375" x2="117.68108125" y2="10.841375" width="0.127" layer="15"/>
 <wire x1="117.63978125" y1="15.817325" x2="117.88108125" y2="16.058625" width="0.127" layer="15"/>
 <wire x1="117.88108125" y1="18.7413" x2="120.13978125" y2="21" width="0.127" layer="15"/>
 <wire x1="117.88108125" y1="16.058625" x2="117.88108125" y2="18.7413" width="0.127" layer="15"/>
 <wire x1="117.63978125" y1="10.882675" x2="117.63978125" y2="15.817325" width="0.127" layer="15"/>
-<wire x1="117.68108125" y1="7.0905375" x2="117.68108125" y2="7.2413" width="0.127" layer="15"/>
 <wire x1="117.26348125" y1="6.6729375" x2="117.68108125" y2="7.0905375" width="0.127" layer="15"/>
 <wire x1="117.26348125" y1="4.3491375" x2="117.26348125" y2="6.6729375" width="0.127" layer="15"/>
 <wire x1="117.08728125" y1="4.1729375" x2="117.26348125" y2="4.3491375" width="0.127" layer="15"/>
@@ -15620,14 +15039,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="139.849259375" y1="3" x2="139.849259375" y2="3.5745625" width="0.127" layer="15"/>
 <wire x1="139.849259375" y1="3.5745625" x2="139.596759375" y2="3.8270625" width="0.127" layer="15"/>
 <wire x1="140.190559375" y1="10.841375" x2="140.149259375" y2="10.882675" width="0.127" layer="15"/>
-<wire x1="140.190559375" y1="7.2413" x2="140.190559375" y2="7.4" width="0.127" layer="15"/>
 <via x="142.649259375" y="21" extent="1-16" drill="0.2"/>
-<wire x1="140.190559375" y1="7.4" x2="140.190559375" y2="10.841375" width="0.127" layer="15"/>
+<wire x1="140.190559375" y1="7.0905375" x2="140.190559375" y2="10.841375" width="0.127" layer="15"/>
 <wire x1="140.149259375" y1="15.817325" x2="140.390559375" y2="16.058625" width="0.127" layer="15"/>
 <wire x1="140.390559375" y1="18.7413" x2="142.649259375" y2="21" width="0.127" layer="15"/>
 <wire x1="140.390559375" y1="16.058625" x2="140.390559375" y2="18.7413" width="0.127" layer="15"/>
 <wire x1="140.149259375" y1="10.882675" x2="140.149259375" y2="15.817325" width="0.127" layer="15"/>
-<wire x1="140.190559375" y1="7.0905375" x2="140.190559375" y2="7.2413" width="0.127" layer="15"/>
 <wire x1="139.772959375" y1="6.6729375" x2="140.190559375" y2="7.0905375" width="0.127" layer="15"/>
 <wire x1="139.772959375" y1="4.3491375" x2="139.772959375" y2="6.6729375" width="0.127" layer="15"/>
 <wire x1="139.596759375" y1="4.1729375" x2="139.772959375" y2="4.3491375" width="0.127" layer="15"/>
@@ -16998,14 +16415,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="162.3562" y1="3" x2="162.3562" y2="3.5745625" width="0.127" layer="15"/>
 <wire x1="162.3562" y1="3.5745625" x2="162.1037" y2="3.8270625" width="0.127" layer="15"/>
 <wire x1="162.6975" y1="10.841375" x2="162.6562" y2="10.882675" width="0.127" layer="15"/>
-<wire x1="162.6975" y1="7.2413" x2="162.6975" y2="7.4" width="0.127" layer="15"/>
 <via x="165.1562" y="21" extent="1-16" drill="0.2"/>
-<wire x1="162.6975" y1="7.4" x2="162.6975" y2="10.841375" width="0.127" layer="15"/>
+<wire x1="162.6975" y1="7.0905375" x2="162.6975" y2="10.841375" width="0.127" layer="15"/>
 <wire x1="162.6562" y1="15.817325" x2="162.8975" y2="16.058625" width="0.127" layer="15"/>
 <wire x1="162.8975" y1="18.7413" x2="165.1562" y2="21" width="0.127" layer="15"/>
 <wire x1="162.8975" y1="16.058625" x2="162.8975" y2="18.7413" width="0.127" layer="15"/>
 <wire x1="162.6562" y1="10.882675" x2="162.6562" y2="15.817325" width="0.127" layer="15"/>
-<wire x1="162.6975" y1="7.0905375" x2="162.6975" y2="7.2413" width="0.127" layer="15"/>
 <wire x1="162.2799" y1="6.6729375" x2="162.6975" y2="7.0905375" width="0.127" layer="15"/>
 <wire x1="162.2799" y1="4.3491375" x2="162.2799" y2="6.6729375" width="0.127" layer="15"/>
 <wire x1="162.1037" y1="4.1729375" x2="162.2799" y2="4.3491375" width="0.127" layer="15"/>
@@ -18376,14 +17791,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="17.198940625" y1="66.85" x2="17.198940625" y2="66.2754375" width="0.127" layer="15"/>
 <wire x1="17.198940625" y1="66.2754375" x2="17.451440625" y2="66.0229375" width="0.127" layer="15"/>
 <wire x1="16.857640625" y1="59.008625" x2="16.898940625" y2="58.967325" width="0.127" layer="15"/>
-<wire x1="16.857640625" y1="62.6087" x2="16.857640625" y2="62.45" width="0.127" layer="15"/>
 <via x="14.398940625" y="48.85" extent="1-16" drill="0.2"/>
-<wire x1="16.857640625" y1="62.45" x2="16.857640625" y2="59.008625" width="0.127" layer="15"/>
+<wire x1="16.857640625" y1="62.7594625" x2="16.857640625" y2="59.008625" width="0.127" layer="15"/>
 <wire x1="16.898940625" y1="54.032675" x2="16.657640625" y2="53.791375" width="0.127" layer="15"/>
 <wire x1="16.657640625" y1="51.1087" x2="14.398940625" y2="48.85" width="0.127" layer="15"/>
 <wire x1="16.657640625" y1="53.791375" x2="16.657640625" y2="51.1087" width="0.127" layer="15"/>
 <wire x1="16.898940625" y1="58.967325" x2="16.898940625" y2="54.032675" width="0.127" layer="15"/>
-<wire x1="16.857640625" y1="62.7594625" x2="16.857640625" y2="62.6087" width="0.127" layer="15"/>
 <wire x1="17.275240625" y1="63.1770625" x2="16.857640625" y2="62.7594625" width="0.127" layer="15"/>
 <wire x1="17.275240625" y1="65.5008625" x2="17.275240625" y2="63.1770625" width="0.127" layer="15"/>
 <wire x1="17.451440625" y1="65.6770625" x2="17.275240625" y2="65.5008625" width="0.127" layer="15"/>
@@ -19754,14 +19167,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="39.70841875" y1="66.85" x2="39.70841875" y2="66.2754375" width="0.127" layer="15"/>
 <wire x1="39.70841875" y1="66.2754375" x2="39.96091875" y2="66.0229375" width="0.127" layer="15"/>
 <wire x1="39.36711875" y1="59.008625" x2="39.40841875" y2="58.967325" width="0.127" layer="15"/>
-<wire x1="39.36711875" y1="62.6087" x2="39.36711875" y2="62.45" width="0.127" layer="15"/>
 <via x="36.90841875" y="48.85" extent="1-16" drill="0.2"/>
-<wire x1="39.36711875" y1="62.45" x2="39.36711875" y2="59.008625" width="0.127" layer="15"/>
+<wire x1="39.36711875" y1="62.7594625" x2="39.36711875" y2="59.008625" width="0.127" layer="15"/>
 <wire x1="39.40841875" y1="54.032675" x2="39.16711875" y2="53.791375" width="0.127" layer="15"/>
 <wire x1="39.16711875" y1="51.1087" x2="36.90841875" y2="48.85" width="0.127" layer="15"/>
 <wire x1="39.16711875" y1="53.791375" x2="39.16711875" y2="51.1087" width="0.127" layer="15"/>
 <wire x1="39.40841875" y1="58.967325" x2="39.40841875" y2="54.032675" width="0.127" layer="15"/>
-<wire x1="39.36711875" y1="62.7594625" x2="39.36711875" y2="62.6087" width="0.127" layer="15"/>
 <wire x1="39.78471875" y1="63.1770625" x2="39.36711875" y2="62.7594625" width="0.127" layer="15"/>
 <wire x1="39.78471875" y1="65.5008625" x2="39.78471875" y2="63.1770625" width="0.127" layer="15"/>
 <wire x1="39.96091875" y1="65.6770625" x2="39.78471875" y2="65.5008625" width="0.127" layer="15"/>
@@ -21132,14 +20543,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="62.215359375" y1="66.85" x2="62.215359375" y2="66.2754375" width="0.127" layer="15"/>
 <wire x1="62.215359375" y1="66.2754375" x2="62.467859375" y2="66.0229375" width="0.127" layer="15"/>
 <wire x1="61.874059375" y1="59.008625" x2="61.915359375" y2="58.967325" width="0.127" layer="15"/>
-<wire x1="61.874059375" y1="62.6087" x2="61.874059375" y2="62.45" width="0.127" layer="15"/>
 <via x="59.415359375" y="48.85" extent="1-16" drill="0.2"/>
-<wire x1="61.874059375" y1="62.45" x2="61.874059375" y2="59.008625" width="0.127" layer="15"/>
+<wire x1="61.874059375" y1="62.7594625" x2="61.874059375" y2="59.008625" width="0.127" layer="15"/>
 <wire x1="61.915359375" y1="54.032675" x2="61.674059375" y2="53.791375" width="0.127" layer="15"/>
 <wire x1="61.674059375" y1="51.1087" x2="59.415359375" y2="48.85" width="0.127" layer="15"/>
 <wire x1="61.674059375" y1="53.791375" x2="61.674059375" y2="51.1087" width="0.127" layer="15"/>
 <wire x1="61.915359375" y1="58.967325" x2="61.915359375" y2="54.032675" width="0.127" layer="15"/>
-<wire x1="61.874059375" y1="62.7594625" x2="61.874059375" y2="62.6087" width="0.127" layer="15"/>
 <wire x1="62.291659375" y1="63.1770625" x2="61.874059375" y2="62.7594625" width="0.127" layer="15"/>
 <wire x1="62.291659375" y1="65.5008625" x2="62.291659375" y2="63.1770625" width="0.127" layer="15"/>
 <wire x1="62.467859375" y1="65.6770625" x2="62.291659375" y2="65.5008625" width="0.127" layer="15"/>
@@ -22510,14 +21919,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="84.724840625" y1="66.85" x2="84.724840625" y2="66.2754375" width="0.127" layer="15"/>
 <wire x1="84.724840625" y1="66.2754375" x2="84.977340625" y2="66.0229375" width="0.127" layer="15"/>
 <wire x1="84.383540625" y1="59.008625" x2="84.424840625" y2="58.967325" width="0.127" layer="15"/>
-<wire x1="84.383540625" y1="62.6087" x2="84.383540625" y2="62.45" width="0.127" layer="15"/>
 <via x="81.924840625" y="48.85" extent="1-16" drill="0.2"/>
-<wire x1="84.383540625" y1="62.45" x2="84.383540625" y2="59.008625" width="0.127" layer="15"/>
+<wire x1="84.383540625" y1="62.7594625" x2="84.383540625" y2="59.008625" width="0.127" layer="15"/>
 <wire x1="84.424840625" y1="54.032675" x2="84.183540625" y2="53.791375" width="0.127" layer="15"/>
 <wire x1="84.183540625" y1="51.1087" x2="81.924840625" y2="48.85" width="0.127" layer="15"/>
 <wire x1="84.183540625" y1="53.791375" x2="84.183540625" y2="51.1087" width="0.127" layer="15"/>
 <wire x1="84.424840625" y1="58.967325" x2="84.424840625" y2="54.032675" width="0.127" layer="15"/>
-<wire x1="84.383540625" y1="62.7594625" x2="84.383540625" y2="62.6087" width="0.127" layer="15"/>
 <wire x1="84.801140625" y1="63.1770625" x2="84.383540625" y2="62.7594625" width="0.127" layer="15"/>
 <wire x1="84.801140625" y1="65.5008625" x2="84.801140625" y2="63.1770625" width="0.127" layer="15"/>
 <wire x1="84.977340625" y1="65.6770625" x2="84.801140625" y2="65.5008625" width="0.127" layer="15"/>
@@ -23888,14 +23295,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="107.23178125" y1="66.85" x2="107.23178125" y2="66.2754375" width="0.127" layer="15"/>
 <wire x1="107.23178125" y1="66.2754375" x2="107.48428125" y2="66.0229375" width="0.127" layer="15"/>
 <wire x1="106.89048125" y1="59.008625" x2="106.93178125" y2="58.967325" width="0.127" layer="15"/>
-<wire x1="106.89048125" y1="62.6087" x2="106.89048125" y2="62.45" width="0.127" layer="15"/>
 <via x="104.43178125" y="48.85" extent="1-16" drill="0.2"/>
-<wire x1="106.89048125" y1="62.45" x2="106.89048125" y2="59.008625" width="0.127" layer="15"/>
+<wire x1="106.89048125" y1="62.7594625" x2="106.89048125" y2="59.008625" width="0.127" layer="15"/>
 <wire x1="106.93178125" y1="54.032675" x2="106.69048125" y2="53.791375" width="0.127" layer="15"/>
 <wire x1="106.69048125" y1="51.1087" x2="104.43178125" y2="48.85" width="0.127" layer="15"/>
 <wire x1="106.69048125" y1="53.791375" x2="106.69048125" y2="51.1087" width="0.127" layer="15"/>
 <wire x1="106.93178125" y1="58.967325" x2="106.93178125" y2="54.032675" width="0.127" layer="15"/>
-<wire x1="106.89048125" y1="62.7594625" x2="106.89048125" y2="62.6087" width="0.127" layer="15"/>
 <wire x1="107.30808125" y1="63.1770625" x2="106.89048125" y2="62.7594625" width="0.127" layer="15"/>
 <wire x1="107.30808125" y1="65.5008625" x2="107.30808125" y2="63.1770625" width="0.127" layer="15"/>
 <wire x1="107.48428125" y1="65.6770625" x2="107.30808125" y2="65.5008625" width="0.127" layer="15"/>
@@ -25266,14 +24671,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="129.741259375" y1="66.85" x2="129.741259375" y2="66.2754375" width="0.127" layer="15"/>
 <wire x1="129.741259375" y1="66.2754375" x2="129.993759375" y2="66.0229375" width="0.127" layer="15"/>
 <wire x1="129.399959375" y1="59.008625" x2="129.441259375" y2="58.967325" width="0.127" layer="15"/>
-<wire x1="129.399959375" y1="62.6087" x2="129.399959375" y2="62.45" width="0.127" layer="15"/>
 <via x="126.941259375" y="48.85" extent="1-16" drill="0.2"/>
-<wire x1="129.399959375" y1="62.45" x2="129.399959375" y2="59.008625" width="0.127" layer="15"/>
+<wire x1="129.399959375" y1="62.7594625" x2="129.399959375" y2="59.008625" width="0.127" layer="15"/>
 <wire x1="129.441259375" y1="54.032675" x2="129.199959375" y2="53.791375" width="0.127" layer="15"/>
 <wire x1="129.199959375" y1="51.1087" x2="126.941259375" y2="48.85" width="0.127" layer="15"/>
 <wire x1="129.199959375" y1="53.791375" x2="129.199959375" y2="51.1087" width="0.127" layer="15"/>
 <wire x1="129.441259375" y1="58.967325" x2="129.441259375" y2="54.032675" width="0.127" layer="15"/>
-<wire x1="129.399959375" y1="62.7594625" x2="129.399959375" y2="62.6087" width="0.127" layer="15"/>
 <wire x1="129.817559375" y1="63.1770625" x2="129.399959375" y2="62.7594625" width="0.127" layer="15"/>
 <wire x1="129.817559375" y1="65.5008625" x2="129.817559375" y2="63.1770625" width="0.127" layer="15"/>
 <wire x1="129.993759375" y1="65.6770625" x2="129.817559375" y2="65.5008625" width="0.127" layer="15"/>
@@ -26644,14 +26047,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="152.2482" y1="66.85" x2="152.2482" y2="66.2754375" width="0.127" layer="15"/>
 <wire x1="152.2482" y1="66.2754375" x2="152.5007" y2="66.0229375" width="0.127" layer="15"/>
 <wire x1="151.9069" y1="59.008625" x2="151.9482" y2="58.967325" width="0.127" layer="15"/>
-<wire x1="151.9069" y1="62.6087" x2="151.9069" y2="62.45" width="0.127" layer="15"/>
 <via x="149.4482" y="48.85" extent="1-16" drill="0.2"/>
-<wire x1="151.9069" y1="62.45" x2="151.9069" y2="59.008625" width="0.127" layer="15"/>
+<wire x1="151.9069" y1="62.7594625" x2="151.9069" y2="59.008625" width="0.127" layer="15"/>
 <wire x1="151.9482" y1="54.032675" x2="151.7069" y2="53.791375" width="0.127" layer="15"/>
 <wire x1="151.7069" y1="51.1087" x2="149.4482" y2="48.85" width="0.127" layer="15"/>
 <wire x1="151.7069" y1="53.791375" x2="151.7069" y2="51.1087" width="0.127" layer="15"/>
 <wire x1="151.9482" y1="58.967325" x2="151.9482" y2="54.032675" width="0.127" layer="15"/>
-<wire x1="151.9069" y1="62.7594625" x2="151.9069" y2="62.6087" width="0.127" layer="15"/>
 <wire x1="152.3245" y1="63.1770625" x2="151.9069" y2="62.7594625" width="0.127" layer="15"/>
 <wire x1="152.3245" y1="65.5008625" x2="152.3245" y2="63.1770625" width="0.127" layer="15"/>
 <wire x1="152.5007" y1="65.6770625" x2="152.3245" y2="65.5008625" width="0.127" layer="15"/>
@@ -28022,14 +27423,12 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="174.755140625" y1="66.85" x2="174.755140625" y2="66.2754375" width="0.127" layer="15"/>
 <wire x1="174.755140625" y1="66.2754375" x2="175.007640625" y2="66.0229375" width="0.127" layer="15"/>
 <wire x1="174.413840625" y1="59.008625" x2="174.455140625" y2="58.967325" width="0.127" layer="15"/>
-<wire x1="174.413840625" y1="62.6087" x2="174.413840625" y2="62.45" width="0.127" layer="15"/>
 <via x="171.955140625" y="48.85" extent="1-16" drill="0.2"/>
-<wire x1="174.413840625" y1="62.45" x2="174.413840625" y2="59.008625" width="0.127" layer="15"/>
+<wire x1="174.413840625" y1="62.7594625" x2="174.413840625" y2="59.008625" width="0.127" layer="15"/>
 <wire x1="174.455140625" y1="54.032675" x2="174.213840625" y2="53.791375" width="0.127" layer="15"/>
 <wire x1="174.213840625" y1="51.1087" x2="171.955140625" y2="48.85" width="0.127" layer="15"/>
 <wire x1="174.213840625" y1="53.791375" x2="174.213840625" y2="51.1087" width="0.127" layer="15"/>
 <wire x1="174.455140625" y1="58.967325" x2="174.455140625" y2="54.032675" width="0.127" layer="15"/>
-<wire x1="174.413840625" y1="62.7594625" x2="174.413840625" y2="62.6087" width="0.127" layer="15"/>
 <wire x1="174.831440625" y1="63.1770625" x2="174.413840625" y2="62.7594625" width="0.127" layer="15"/>
 <wire x1="174.831440625" y1="65.5008625" x2="174.831440625" y2="63.1770625" width="0.127" layer="15"/>
 <wire x1="175.007640625" y1="65.6770625" x2="174.831440625" y2="65.5008625" width="0.127" layer="15"/>
