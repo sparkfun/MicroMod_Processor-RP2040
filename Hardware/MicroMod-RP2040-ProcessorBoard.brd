@@ -9,8 +9,8 @@
 <grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.005" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
-<layer number="2" name="Horz" color="1" fill="3" visible="yes" active="yes"/>
-<layer number="15" name="Vert" color="4" fill="6" visible="yes" active="yes"/>
+<layer number="2" name="Horz" color="1" fill="3" visible="no" active="yes"/>
+<layer number="15" name="Vert" color="4" fill="6" visible="no" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
@@ -20,34 +20,34 @@
 <layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="yes"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="29" name="tStop" color="7" fill="3" visible="yes" active="yes"/>
-<layer number="30" name="bStop" color="7" fill="6" visible="yes" active="yes"/>
-<layer number="31" name="tCream" color="7" fill="4" visible="yes" active="yes"/>
-<layer number="32" name="bCream" color="7" fill="5" visible="yes" active="yes"/>
-<layer number="33" name="tFinish" color="6" fill="3" visible="yes" active="yes"/>
-<layer number="34" name="bFinish" color="6" fill="6" visible="yes" active="yes"/>
-<layer number="35" name="tGlue" color="7" fill="4" visible="yes" active="yes"/>
-<layer number="36" name="bGlue" color="7" fill="5" visible="yes" active="yes"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
-<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
-<layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
-<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
-<layer number="43" name="vRestrict" color="2" fill="10" visible="yes" active="yes"/>
-<layer number="44" name="Drills" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
+<layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
+<layer number="30" name="bStop" color="7" fill="6" visible="no" active="yes"/>
+<layer number="31" name="tCream" color="7" fill="4" visible="no" active="yes"/>
+<layer number="32" name="bCream" color="7" fill="5" visible="no" active="yes"/>
+<layer number="33" name="tFinish" color="6" fill="3" visible="no" active="yes"/>
+<layer number="34" name="bFinish" color="6" fill="6" visible="no" active="yes"/>
+<layer number="35" name="tGlue" color="7" fill="4" visible="no" active="yes"/>
+<layer number="36" name="bGlue" color="7" fill="5" visible="no" active="yes"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
+<layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="yes"/>
+<layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
+<layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
+<layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
 <layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="no" active="no"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="no" active="no"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="no"/>
@@ -3527,7 +3527,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="15.25" y1="4.999025" x2="14.9904" y2="5.258625" width="0.127" layer="1"/>
 <wire x1="14.9904" y1="5.541375" x2="15.25" y2="5.800975" width="0.127" layer="1"/>
 </signal>
-<signal name="SPI_SCK/GPIO6" class="1">
+<signal name="SPI_SCK/G6" class="1">
 <contactref element="J1" pad="57"/>
 <contactref element="U3" pad="34"/>
 <contactref element="J1" pad="71"/>
@@ -3546,7 +3546,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="6.25" y1="1.275" x2="6.25" y2="5.46193125" width="0.127" layer="1"/>
 <wire x1="6.25" y1="5.46193125" x2="6.3" y2="5.51193125" width="0.127" layer="1"/>
 </signal>
-<signal name="SPI_COPI/GPIO7" class="1">
+<signal name="SPI_COPI/G7" class="1">
 <contactref element="J1" pad="59"/>
 <contactref element="U3" pad="35"/>
 <contactref element="J1" pad="69"/>
@@ -3776,7 +3776,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="8.4413" y1="4.3413" x2="8.6" y2="4.5" width="0.127" layer="2"/>
 <wire x1="8.25" y1="1.275" x2="8.25" y2="3.7912" width="0.127" layer="1"/>
 </signal>
-<signal name="ADC0">
+<signal name="A0">
 <contactref element="J1" pad="34"/>
 <contactref element="U3" pad="38"/>
 <wire x1="12" y1="8.5635" x2="12" y2="7.8" width="0.127" layer="1"/>
@@ -3788,7 +3788,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="12.2714" y1="2.7714" x2="12.2714" y2="5.345925" width="0.127" layer="16"/>
 <wire x1="12.1587" y1="5.458625" x2="12.1587" y2="7.6413" width="0.127" layer="16"/>
 </signal>
-<signal name="ADC1">
+<signal name="A1">
 <contactref element="J1" pad="38"/>
 <contactref element="U3" pad="39"/>
 <via x="11.7587" y="7.3" extent="1-16" drill="0.2"/>
@@ -3984,7 +3984,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="2.9413" y1="3.4220625" x2="2.9413" y2="4.7825" width="0.127" layer="16"/>
 <wire x1="3.5" y1="2.8633625" x2="2.9413" y2="3.4220625" width="0.127" layer="16"/>
 </signal>
-<signal name="SPI_CIPO/GPIO4" class="1">
+<signal name="SPI_CIPO/G4" class="1">
 <contactref element="J1" pad="61"/>
 <contactref element="U3" pad="31"/>
 <contactref element="J1" pad="48"/>
@@ -4112,7 +4112,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <via x="19" y="13.1" extent="1-16" drill="0.2"/>
 <wire x1="19" y1="13.1" x2="19" y2="12.25" width="0.127" layer="16"/>
 </signal>
-<signal name="SPI_!CS!/GPIO5" class="1">
+<signal name="SPI_!CS!/G5" class="1">
 <contactref element="J1" pad="55"/>
 <contactref element="U3" pad="32"/>
 <contactref element="J1" pad="73"/>
@@ -4139,7 +4139,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="7.1175" y1="3.90425625" x2="6.80530625" y2="3.90425625" width="0.127" layer="16"/>
 <wire x1="6.80530625" y1="3.90425625" x2="6.5825" y2="4.1270625" width="0.127" layer="16"/>
 </signal>
-<signal name="GPIO1" class="1">
+<signal name="G1" class="1">
 <contactref element="J1" pad="42"/>
 <contactref element="U3" pad="28"/>
 <via x="6.758" y="9.2488" extent="1-16" drill="0.2"/>
@@ -4166,7 +4166,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="9.932928125" y1="3.498128125" x2="10.1952" y2="3.23585625" width="0.127" layer="16"/>
 <wire x1="10.1952" y1="3.23585625" x2="10.1952" y2="2.7952" width="0.127" layer="16"/>
 </signal>
-<signal name="GPIO3" class="1">
+<signal name="G3" class="1">
 <contactref element="J1" pad="46"/>
 <contactref element="U3" pad="30"/>
 <wire x1="7.8709" y1="7.47078125" x2="7.8709" y2="8.17078125" width="0.127" layer="1"/>
@@ -4198,7 +4198,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="7.75" y1="7.75" x2="7.25" y2="7.75" width="0.127" layer="16"/>
 <wire x1="7.9" y1="7.6" x2="7.75" y2="7.75" width="0.127" layer="16"/>
 </signal>
-<signal name="GPIO2" class="1">
+<signal name="G2" class="1">
 <contactref element="J1" pad="44"/>
 <contactref element="U3" pad="29"/>
 <via x="8.3825" y="7.74961875" extent="1-16" drill="0.2"/>
@@ -4222,7 +4222,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="8.7952" y1="5.27374375" x2="8.7952" y2="8.97374375" width="0.127" layer="16"/>
 <wire x1="8.7952" y1="8.97374375" x2="8.59954375" y2="9.1694" width="0.127" layer="16"/>
 </signal>
-<signal name="GPIO0" class="1">
+<signal name="G0" class="1">
 <contactref element="J1" pad="40"/>
 <contactref element="U3" pad="27"/>
 <wire x1="7.5635" y1="9.8" x2="6.779" y2="9.8" width="0.127" layer="1"/>
@@ -4648,7 +4648,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="18" y1="13.5" x2="18.5" y2="14" width="0.127" layer="16"/>
 <wire x1="19.5" y1="14" x2="18.5" y2="14" width="0.127" layer="16"/>
 </signal>
-<signal name="GPIO9">
+<signal name="G9">
 <contactref element="J1" pad="65"/>
 <contactref element="U3" pad="40"/>
 <wire x1="12.8" y1="8.5635" x2="12.8" y2="7.0587" width="0.127" layer="1"/>

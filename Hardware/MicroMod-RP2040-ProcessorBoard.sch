@@ -21627,7 +21627,7 @@ RP2040 connected to D1/USB_HOST otherwise.</text>
 <pinref part="U3" gate="U1" pin="SWCLK"/>
 </segment>
 </net>
-<net name="SPI_SCK/GPIO6" class="1">
+<net name="SPI_SCK/G6" class="1">
 <segment>
 <wire x1="236.22" y1="231.14" x2="238.76" y2="231.14" width="0.1524" layer="91"/>
 <label x="238.76" y="231.14" size="1.27" layer="95" rot="MR180" xref="yes"/>
@@ -21644,7 +21644,7 @@ RP2040 connected to D1/USB_HOST otherwise.</text>
 <label x="238.76" y="167.64" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="SPI_COPI/GPIO7" class="1">
+<net name="SPI_COPI/G7" class="1">
 <segment>
 <wire x1="236.22" y1="228.6" x2="238.76" y2="228.6" width="0.1524" layer="91"/>
 <label x="238.76" y="228.6" size="1.27" layer="95" rot="MR180" xref="yes"/>
@@ -21779,7 +21779,7 @@ RP2040 connected to D1/USB_HOST otherwise.</text>
 <label x="96.52" y="175.26" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="ADC0" class="0">
+<net name="A0" class="0">
 <segment>
 <wire x1="236.22" y1="218.44" x2="238.76" y2="218.44" width="0.1524" layer="91"/>
 <label x="238.76" y="218.44" size="1.27" layer="95" xref="yes"/>
@@ -21791,7 +21791,7 @@ RP2040 connected to D1/USB_HOST otherwise.</text>
 <label x="96.52" y="182.88" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="ADC1" class="0">
+<net name="A1" class="0">
 <segment>
 <wire x1="236.22" y1="215.9" x2="238.76" y2="215.9" width="0.1524" layer="91"/>
 <label x="238.76" y="215.9" size="1.27" layer="95" xref="yes"/>
@@ -21908,7 +21908,7 @@ RP2040 connected to D1/USB_HOST otherwise.</text>
 <label x="187.96" y="195.58" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="SPI_CIPO/GPIO4" class="1">
+<net name="SPI_CIPO/G4" class="1">
 <segment>
 <wire x1="236.22" y1="226.06" x2="238.76" y2="226.06" width="0.1524" layer="91"/>
 <label x="238.76" y="226.06" size="1.27" layer="95" rot="MR180" xref="yes"/>
@@ -21990,7 +21990,7 @@ RP2040 connected to D1/USB_HOST otherwise.</text>
 <pinref part="U2" gate="U1" pin="D2+"/>
 </segment>
 </net>
-<net name="SPI_!CS!/GPIO5" class="1">
+<net name="SPI_!CS!/G5" class="1">
 <segment>
 <pinref part="J1" gate="J1" pin="SPI_!CS!"/>
 <wire x1="236.22" y1="223.52" x2="238.76" y2="223.52" width="0.1524" layer="91"/>
@@ -22007,7 +22007,7 @@ RP2040 connected to D1/USB_HOST otherwise.</text>
 <label x="238.76" y="170.18" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
-<net name="GPIO1" class="1">
+<net name="G1" class="1">
 <segment>
 <wire x1="236.22" y1="180.34" x2="238.76" y2="180.34" width="0.1524" layer="91"/>
 <label x="238.76" y="180.34" size="1.27" layer="95" xref="yes"/>
@@ -22019,7 +22019,7 @@ RP2040 connected to D1/USB_HOST otherwise.</text>
 <pinref part="U3" gate="U1" pin="GPIO17"/>
 </segment>
 </net>
-<net name="GPIO3" class="1">
+<net name="G3" class="1">
 <segment>
 <wire x1="236.22" y1="175.26" x2="238.76" y2="175.26" width="0.1524" layer="91"/>
 <label x="238.76" y="175.26" size="1.27" layer="95" xref="yes"/>
@@ -22031,7 +22031,7 @@ RP2040 connected to D1/USB_HOST otherwise.</text>
 <pinref part="U3" gate="U1" pin="GPIO19"/>
 </segment>
 </net>
-<net name="GPIO2" class="1">
+<net name="G2" class="1">
 <segment>
 <wire x1="236.22" y1="177.8" x2="238.76" y2="177.8" width="0.1524" layer="91"/>
 <label x="238.76" y="177.8" size="1.27" layer="95" xref="yes"/>
@@ -22043,7 +22043,7 @@ RP2040 connected to D1/USB_HOST otherwise.</text>
 <pinref part="U3" gate="U1" pin="GPIO18"/>
 </segment>
 </net>
-<net name="GPIO0" class="1">
+<net name="G0" class="1">
 <segment>
 <wire x1="236.22" y1="182.88" x2="238.76" y2="182.88" width="0.1524" layer="91"/>
 <label x="238.76" y="182.88" size="1.27" layer="95" xref="yes"/>
@@ -22401,7 +22401,7 @@ RP2040 connected to D1/USB_HOST otherwise.</text>
 <junction x="325.12" y="99.06"/>
 </segment>
 </net>
-<net name="GPIO9" class="0">
+<net name="G9" class="0">
 <segment>
 <pinref part="J1" gate="J1" pin="G9/ADC_D-/CAM_HSYNC"/>
 <wire x1="236.22" y1="160.02" x2="238.76" y2="160.02" width="0.1524" layer="91"/>
