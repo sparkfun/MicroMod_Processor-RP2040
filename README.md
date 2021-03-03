@@ -1,7 +1,7 @@
 SparkFun MicroMod Processor RP2040
 ========================================
 
-[![SparkFun MicroMod Processor RP2040](URL for picture of part)](https://www.sparkfun.com/products/17720)
+[![SparkFun MicroMod Processor RP2040](https://cdn.sparkfun.com//assets/parts/1/6/8/2/6/17720-SparkFun_MicroMod_RP2040_Processor-01A.jpg)](https://www.sparkfun.com/products/17720)
 
 [*SparkFun MicroMod Processor RP2040 (DEV-17720)*](https://www.sparkfun.com/products/17720)
 
